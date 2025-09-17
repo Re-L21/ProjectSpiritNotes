@@ -1,0 +1,8 @@
+---
+aliases:
+  - Imouto
+---
+
+[[Project-Spirits]]
+
+---

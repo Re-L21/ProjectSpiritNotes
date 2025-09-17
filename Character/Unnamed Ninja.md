@@ -1,0 +1,8 @@
+---
+aliases:
+  - Ninja
+---
+
+[[Project-Spirits]]
+
+---
