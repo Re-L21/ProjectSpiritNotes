@@ -19,6 +19,10 @@ Ability: Deflect
 ---
 
 ## Key Points
+> Has special boss encounter. Whenever the player has ==acquired all== of [[Melati Sekar Puspitasari|Sekar]]'s ==[[Mementos]]== and revisit the place where the fight with [[Melati Sekar Puspitasari|Sekar]] broke out, [[Melati Sekar Puspitasari|Sekar]] will temporarily leave the team and fight with her again but the ==feral== (red) version of her. 
+
+> Defeating her red state will return [[Melati Sekar Puspitasari|Sekar]] to the party and unlock ultimate
+
 
 - Unlocks Deflect Ability when defeated.
 - MC partner in crime from beginning until the end of the games.
@@ -49,7 +53,7 @@ Ability: Deflect
 
 ## Boss Attack Pattern
 
-- Has 2 state :
+- Has 2 version :
 	- Melati - the smart one? (white) 
 	    - low energy
 	    - calculative (?)
