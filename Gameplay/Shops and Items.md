@@ -11,8 +11,10 @@ tags:
 	Most likely to be deleted. lack of content or reason for shop to exist
 
 Item listed in the shops are :
-- Map of the area
-- [[Skins]] ? 
+- Map of the area (paper)
+- [[Skins|Weapon & Outfit cosmetic]] ? 
+- Consumables
+- Weapons
 
 ## Currencies
 > An item used for purchasing goods from the shops, and can be used for paying the blacksmith to upgrade weapons. Can be obtained by defeating enemy, ==interacting with environment==, and reward for doing side quest.

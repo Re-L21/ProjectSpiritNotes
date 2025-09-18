@@ -4,10 +4,13 @@
 
 ## Humanoid 
 	Creature that has a human limbs or has a body that looks human
+
 ## Monster
 	Magical creature that born from ....
+
 ## Animal 
 	Creature that resides in the living world
+
 ## Soul
 	Creature that born from the dead
 

@@ -2,7 +2,7 @@
 tags:
   - core
 ---
-[[Project-Spirits|Home]]
+[[Project-Spirits|Home]], [[Enemies]], [[Side Quest]]
 
 ---
 
@@ -11,7 +11,7 @@ tags:
 - Health
 	- Duh
 	- Can be upgraded
-- Reiryoku
+- Reiryoku (energy)
 	- A spiritual energy
 	- Can be upgraded
 - Reiatsu ( ==only available after unlocking ultimate== )
@@ -40,9 +40,10 @@ tags:
 	    - Locked place / some roadblock can be dealt with either solving a puzzle, smash your way through it, or a specific ability
 	- Ultimate mechanics : 
 	    - Is a hidden ability that every spirit has ( ==after unlocking it, some bosses will re appear with its hidden ability unlocked== )
-	    - Unlocked after
-		    - Defeating the first 4 bosses / clearing first region 
-		    - Defeating the first 4 bosses, then interacting with some kind of item in some places (makes unlocking the ultimate can be avoidable / skip)
+	    - Unlocked after 
+		    - Defeating the first 4 bosses
+		    - Obtain all memento (for each spirit)
+		    - talk to the correspond spirit in the base (makes unlocking the ultimate can be avoidable / skip)
 		- Ultimate require ==reiatsu== and will deplete ==reiryoku==
 		    - Every spirit has different ultimate, will always use the current spirit
 
