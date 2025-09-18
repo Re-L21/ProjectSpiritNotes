@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"1112218e679434de","x":-125,"y":63,"width":250,"height":60,"type":"text","text":"Health bar"},
+		{"id":"1d4145859a02f77f","x":125,"y":180,"width":250,"height":60,"type":"text","text":"Ultimate"},
+		{"id":"f94147f142e74973","x":-375,"y":180,"width":250,"height":60,"type":"text","text":"Energy"}
+	],
+	"edges":[
+		{"id":"063410a96659ff55","fromNode":"1112218e679434de","fromSide":"bottom","toNode":"f94147f142e74973","toSide":"top"},
+		{"id":"1bfb347489886f49","fromNode":"f94147f142e74973","fromSide":"right","toNode":"1d4145859a02f77f","toSide":"left"},
+		{"id":"c3a0c8399193fd1b","fromNode":"1d4145859a02f77f","fromSide":"top","toNode":"1112218e679434de","toSide":"right"},
+		{"id":"212e0eea9ca84010","fromNode":"f94147f142e74973","fromSide":"top","toNode":"1112218e679434de","toSide":"left"}
+	]
+}
