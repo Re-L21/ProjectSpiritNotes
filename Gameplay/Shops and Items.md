@@ -24,7 +24,7 @@ Item listed in the shops are :
 	Most likely to be scrapped, do we need to upgrade our weapon? or maybe upgrade ability?
 
 ### Weapons
-> Can be upgraded using ==???== and ==???==. NPC can be found ==randomly== throughout the map or in ==base==.
+> Can be upgraded using the ==currency== and ==materials==. The NPC for upgrading weapons can be found ==randomly== throughout the map or in ==base==.
 
 - Light weapon 
 	- Add attack speed?
