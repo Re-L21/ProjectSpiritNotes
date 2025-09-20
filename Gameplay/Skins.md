@@ -4,8 +4,11 @@ tags:
   - cosmetic
 ---
 
+---
 
 ## Weapon Cosmetic
+
+## Aether Cosmetic
 
 ## Spirit Cosmetic
 
