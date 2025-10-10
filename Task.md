@@ -1,0 +1,2 @@
+- [ ] Elite mobs location list
+- [ ] 

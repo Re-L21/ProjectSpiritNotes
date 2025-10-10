@@ -2,7 +2,6 @@
 tags:
   - sidequest
 ---
-
 [[Core Gameplay]]
 
 ---
