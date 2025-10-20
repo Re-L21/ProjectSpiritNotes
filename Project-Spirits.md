@@ -32,12 +32,10 @@ tags:
 	- dynamic movement : Fluid, ability-based traversal that evolves exploration and combat.
 	- Skill-Based & precise combat : Precise, pattern-based enemy encounters.
 	- Exploration 
-- Sub-Pillars :
-	- Resource juggling : regenerate health, using ==abilities==, and ultimate
 - Map style : 
 	- Every map/level will be different in terms of exploration mechanics (different themes ex. Heavy in combat and the other is heavy in platforming, and more puzzle)
 	- Each region mechanic will correspond with the current ruling spirit (the problematic spirit)
-- Level Mechanics 
+- Level Mechanics :
 	- Region : Progression 
 	- Sub Region : Mechanic
 	- Room : Concept 

@@ -14,10 +14,10 @@ tags:
 - Reiryoku (energy)
 	- A spiritual energy
 	- Can be upgraded
-- Reiatsu ( ==only available after unlocking ultimate== )
-	- An overflow energy from ==reiryoku==, can only be obtained when the ==reiryoku== is keep regenerating when its already full 
-	- Can be obtained when spending reiryoku
-	- Will deplete overtime
+- ~~Reiatsu ( ==only available after unlocking ultimate== )~~
+	- ~~An overflow energy from ==reiryoku==, can only be obtained when the ==reiryoku== is keep regenerating when its already full~~ 
+	- ~~Can be obtained when spending reiryoku~~
+	- ~~Will deplete overtime~~
 
 ## Combat
 
