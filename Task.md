@@ -1,7 +1,7 @@
 - [ ] Elite mobs location list
 - [ ] Rework region 1 spirits special actions
-- [ ] Enemy list
+- [x] Enemy list ✅ 2025-10-20
 - [x] Remove Reiatsu ✅ 2025-10-18
-- [ ] Think of multiple enemies type
+- [x] Think of multiple enemies type ✅ 2025-10-20
 - [ ] Environment hazard to sync with special action
 - [ ] Rework LDI for more environment hazard
