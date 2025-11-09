@@ -11,13 +11,9 @@ tags:
 - Health
 	- Duh
 	- Can be upgraded
-- Reiryoku (energy)
+- energy
 	- A spiritual energy
 	- Can be upgraded
-- ~~Reiatsu ( ==only available after unlocking ultimate== )~~
-	- ~~An overflow energy from ==reiryoku==, can only be obtained when the ==reiryoku== is keep regenerating when its already full~~ 
-	- ~~Can be obtained when spending reiryoku~~
-	- ~~Will deplete overtime~~
 
 ## Combat
 
@@ -40,12 +36,17 @@ tags:
 	    - Locked place / some roadblock can be dealt with either solving a puzzle, smash your way through it, or a specific ability
 	- Ultimate mechanics : 
 	    - Is a hidden ability that every spirit has ( ==after unlocking it, some bosses will re appear with its hidden ability unlocked== )
-	    - Unlocked after 
-		    - Defeating the first 4 bosses
-		    - Obtain all memento (for each spirit)
-		    - talk to the correspond spirit in the base (makes unlocking the ultimate can be avoidable / skip)
-		- Ultimate require ==reiatsu== and will deplete ==reiryoku==
+	    - Unlocked after :  
+		    - [ ] Defeating the first 4 bosses
+			- [ ] Obtain all memento (for each spirit)
+			    - [ ] ( Skip-able )talk to the correspond spirit in the base
+		    - [ ] First boss fight
+		    - [ ] Obtained the spirit
+		- Ultimate require energy
 		    - Every spirit has different ultimate, will always use the current spirit
+
+- Death mechanics
+	- 
 
 ## Base Camp
 
