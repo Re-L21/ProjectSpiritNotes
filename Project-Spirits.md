@@ -4,7 +4,7 @@ aliases:
 tags:
   - PS-01
 ---
-[[Core Gameplay]], [[Creatures]], [[Button Assignment]], [[Resource Usage.canvas|Resource Usage]]
+[[Core Gameplay]], [[Entity]], [[Button Assignment]], [[Main Progression.canvas|Resource Usage]]
 
 ---
 

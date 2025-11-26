@@ -1,8 +1,0 @@
----
-aliases:
-  - Katana
----
-
-[[Project-Spirits]]
-
----

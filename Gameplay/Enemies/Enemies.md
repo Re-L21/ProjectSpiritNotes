@@ -9,14 +9,14 @@ tags:
 ## Boss
 > Ruler of the area, defeating them will grants [[Abilities|Ability]] 
 
-- [[Chisato]]
+- [[Claudia Chika]]
 - [[Koyuki Rin ( 小雪 凛 )]]
-- [[Melati Sekar Puspitasari]] and [[Melati Sekar Puspitasari|Sekar]]
-- [[Nait]]
+- [[Melati Sekar Puspitasari]]
+- [[Naita Putri]]
 - [[Saigyouji Yuyuko ( 西行寺 幽々子 )]]
-- [[Unnamed Imouto]]
-- [[Unnamed Katana]]
-- [[Unnamed Ninja]]
+- [[Mary Alderton]]
+- [[Mairi Chattan]]
+- [[Chi-Tana Bibi]]
 
 ## Elite
 > A specialize enemy, defeating them will grant rewards such as [[Aether]], or [[Skins|Cosmetics]].

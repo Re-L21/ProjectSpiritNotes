@@ -1,13 +1,13 @@
+## Game Design
+
 - [ ] Elite mobs location list
-- [ ] Rework region 1 spirits special actions
-- [x] Enemy list ✅ 2025-10-20
-- [x] Remove Reiatsu ✅ 2025-10-18
-- [x] Think of multiple enemies type ✅ 2025-10-20
-- [ ] ~~Environment hazard that can be interact with spirits (not remote)~~
-- [ ] Decide what is Ultimate, when can be obtained
-- [ ] Decide what happen after player dies
-	- [x] Teleport back to last checkpoint? (needs a penalty otherwise its just a fast travel) ✅ 2025-10-27
-	- [ ] Load last save 
-- [ ] Ask question : 
-	- [x] when do player unlock ultimate ✅ 2025-10-27
-	- [x] what is the role of ultimate? (special action handle enemy, explore is for explore) for now maybe to defeat boss? ✅ 2025-10-27
+- [ ] Rework progression 🔺 
+	- [ ] Exploration rewards🔺  
+	- [ ] Rework LDI 🔺 
+- [ ] Rework Ability 🔺
+## Prototyping
+
+- [x] Character movement setup ✅ 2025-11-20
+- [ ] Combat
+	- [x] Base combo ✅ 2025-11-26
+	- [ ] Melee Trace

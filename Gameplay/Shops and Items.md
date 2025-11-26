@@ -42,10 +42,10 @@ Item listed in the shops are :
 ### Special Actions / Spells
 > Upgrading spells will require specific item that can be found throughout the map, depending on which is found first, the upgrades ==can't== be override
 
-- [[Unnamed Imouto|Imouto]]
+- [[Mary Alderton|Imouto]]
 	- Increase rapid punch  duration
 	- Damage increase ?
-- [[Nait]]
+- [[Naita Putri]]
 	- Increase armor gain
 	- change property ?
 - [[Koyuki Rin ( 小雪 凛 )|rin]]

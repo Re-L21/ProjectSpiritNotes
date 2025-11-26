@@ -9,62 +9,43 @@
 ## Basic Action
 
 - Deflect
-	- Unlocked after defeating [[Melati Sekar Puspitasari |Sekar]]
+	- Unlocked after defeating [[Melati Sekar Puspitasari |Sekar]] in chapter 1
 
 ## Explore 
 
-- Sprint
-	- Unlocked after defeating [[Unnamed Imouto|Imouto]]
+- Sprint & Wall Run & Wall Jump
+	- Unlocked after defeating [[Mairi Chattan]] in chapter 2
 - Slide & Crouch
-	- Unlocked after defeating [[Chisato]]
+	- Unlocked after defeating [[Claudia Chika]] in chapter 1
 - Dash & Dart
-	- Unlocked after defeating [[Unnamed Katana|Katana]]
+	- Unlocked after defeating [[Mary Alderton]] in chapter 3
 - Double Jump
-	- Unlocked after defeating [[Nait]]
-- Wall Run & Wall Jump
-	- Unlocked after defeating [[Unnamed Ninja|Ninja]]
+	- Unlocked after defeating [[Chi-Tana Bibi]] in chapter 3
 - Remote
-	- Unlocked after defeating [[Koyuki Rin ( 小雪 凛 )|rin]]
+	- Unlocked after defeating [[Koyuki Rin ( 小雪 凛 )|rin]] in chapter 2
 - Glide
-	- Unlocked after defeating [[Saigyouji Yuyuko ( 西行寺 幽々子 )|Yuyuko]]
+	- Unlocked after defeating [[Saigyouji Yuyuko ( 西行寺 幽々子 )|Yuyuko]] in chapter 2
 
 ## Special Actions / Spells
 
-- [[Unnamed Imouto|Imouto]]
+- [[Mairi Chattan]]
 	- Rapid Punch, Extender
-- [[Chisato]]
+- [[Claudia Chika]]
 	- ~~Sweep Attack, Launcher and can attack downed enemies~~
 	- ==Player phase through enemy and show up behind them==
-- [[Unnamed Katana|Katana]]
+- [[Mary Alderton]]
 	- ~~Slash Upward and jump, Launcher~~
 	- ==Player dash to enemy dealing damage==
-- [[Nait]]
-	- Generate Armor, Utility
+- [[Naita Putri]]
+	- Generate Armor, support
 - [[Melati Sekar Puspitasari|Sekar]]
 	- Stagger Enemies, Utility
-- [[Unnamed Ninja|Ninja]]
-	- Rapid Attack with Clones, Extender
+- [[Chi-Tana Bibi]]
+	- Rapid Attack with Clones, damage
 - [[Koyuki Rin ( 小雪 凛 )|rin]]
 	- ~~Slow Enemies, Utility + Extender~~
 	- ==Sent spirit forward and create a slow AoE around the spirit==
 - [[Saigyouji Yuyuko ( 西行寺 幽々子 )|Yuyuko]]
 	- Orbit Butterfly around character, Utility + Launcher
 
-## Ultimate (currently not updated / synced with others)
-> Panic button? / provide invulnerability
-
-- [[Chisato|Chisato [Slide & Crouch]]]
-	- Domain expansion ?
-		- Every whiff/connected hit will attack all enemy
-- [[Unnamed Imouto|Imouto [Sprint]]]
-	- instals : slow mo
-- [[Melati Sekar Puspitasari|Sekar [Deflect] ]]
-	- Slow mo
-	- Instant attack
-		- instals, every deflect inflicts enemy with debuff, at max stack will explode deal high dmg
-	- ==return everything==
-		- return any deflected attack back to enemy 
-- [[Unnamed Katana|Katana [Dash & Dart] ]]
-	- (Cutscene) Deal high dmg to 1 enemy
-- [[Koyuki Rin ( 小雪 凛 )|rin [Remote]]]
-	- Freeze the whole area
+## Ultimate 
