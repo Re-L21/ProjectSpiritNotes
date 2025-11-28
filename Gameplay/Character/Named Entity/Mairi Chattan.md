@@ -1,5 +1,11 @@
 ---
 aliases:
+  - Cat Entity
+  - Black Garfield
+tags:
+  - ContractedEntity
+  - Sprint
+Ability: Sprint
 ---
 
 [[Project-Spirits]]

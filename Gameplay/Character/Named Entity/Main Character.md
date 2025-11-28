@@ -2,8 +2,8 @@
 aliases:
   - mc
 tags:
-  - mc
-Ability: Memory Seekers
+  - MainCharacter
+Ability: Specialized Indigo
 ---
 
 ---

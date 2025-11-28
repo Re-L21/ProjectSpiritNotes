@@ -2,8 +2,8 @@
 aliases:
   - Knight
 tags:
-  - spirit
-  - armor
+  - ContractedEntity
+  - Armor
 Ability: Generate Armor
 ---
 [[Entity]]

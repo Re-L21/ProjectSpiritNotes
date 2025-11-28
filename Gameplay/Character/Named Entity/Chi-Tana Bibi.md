@@ -1,5 +1,10 @@
 ---
 aliases:
+  - Children
+tags:
+  - doubleJump
+  - ContractedEntity
+Ability: Double Jump
 ---
 
 [[Project-Spirits]]

@@ -1,10 +1,10 @@
 ---
-tags:
-  - spirit
-  - glide
-Ability: Glide
 aliases:
   - Yuyuko
+tags:
+  - ContractedEntity
+  - Glide
+Ability: Glide
 ---
 [[Entity]]
 

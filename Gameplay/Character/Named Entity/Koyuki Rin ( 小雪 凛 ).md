@@ -1,9 +1,9 @@
 ---
 aliases:
-  - rin
+  - Rin
 tags:
-  - spirit
   - remote
+  - ContractedEntity
 Ability: Remote
 ---
 [[Entity]]

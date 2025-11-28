@@ -2,8 +2,11 @@
 aliases:
   - Bloody Mary
 tags:
-  - demon
-Ability: Dash & rift
+  - Demon
+  - ContractedDemon
+  - Dart
+  - Dash
+Ability: Dash & Dart
 ---
 
 [[Project-Spirits]]

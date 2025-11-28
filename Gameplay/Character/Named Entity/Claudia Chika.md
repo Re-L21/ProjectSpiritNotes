@@ -1,11 +1,11 @@
 ---
 aliases:
-  - suster ngesot
+  - Suster ngesot
   - The Dragging Nurse
 tags:
-  - spirit
   - slide
   - crouch
+  - ContractedEntity
 Ability: Slide & Crouch,  Mobility Support
 ---
 [[Entity]]

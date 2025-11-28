@@ -3,18 +3,12 @@ aliases:
   - Kuntilanak Putih (Melati)
   - Kuntilanak Merah (Sekar)
 tags:
-  - spirit
   - deflect
   - parry
+  - ContractedEntity
 Ability: Deflect
 ---
 [[Entity]]
-
----
-
-## Backstory Ideas
-
-	TBA
 
 ---
 # Sekar – “Kuntilanak Merah”
