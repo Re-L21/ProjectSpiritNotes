@@ -1,36 +1,10 @@
 {
 	"nodes":[
-		{"id":"c0a3cedf2906f6b6","type":"group","x":-1280,"y":3360,"width":4560,"height":1180,"color":"2","label":"Chapter 2"},
+		{"id":"c0a3cedf2906f6b6","type":"group","x":-1280,"y":3360,"width":4560,"height":1280,"color":"2","label":"Chapter 2"},
 		{"id":"535a20f1de59518e","type":"group","x":-100,"y":900,"width":2200,"height":1360,"color":"4","label":"Chapter 1"},
-		{"id":"7a6d3e737aa3b927","type":"group","x":60,"y":1060,"width":1920,"height":1000,"color":"1","label":"Indonesia"},
 		{"id":"ad9404ea04485792","type":"group","x":-1240,"y":3440,"width":2200,"height":1000,"color":"#d0809c","label":"Japan"},
 		{"id":"ee5705d6d72ddd49","type":"group","x":1040,"y":3440,"width":2160,"height":1000,"label":"Other Country"},
-		{"id":"dc4fa2708df3c921","type":"file","file":"Levels/Region/Japan/Hokkaido - Frozen Echo Plains.md","x":-1180,"y":3500,"width":940,"height":760},
-		{"id":"0f03a2853513588d","type":"file","file":"Levels/Region/Japan/Tokyo - Neon Crossroads.md","x":-120,"y":3500,"width":940,"height":760},
-		{
-			"id":"be67547dab41ff6c",
-			"type":"text",
-			"text":"Chapter 2 Require Abilities from Chapter 1",
-			"styleAttributes":{"textAlign":"center"},
-			"x":3440,
-			"y":2720,
-			"width":1120,
-			"height":520,
-			"color":"#00ffcc"
-		},
-		{"id":"0a96a7c3a3e72966","type":"file","file":"Levels/Region/Ireland/Ireland - Fae-Hollowed Woods.md","x":1100,"y":3500,"width":940,"height":720,"color":"6"},
-		{"id":"677e3c9cac071082","type":"file","file":"Levels/Region/Pakistan/Quetta District - Chehel-Tan Limestone Valley.md","x":2160,"y":3500,"width":940,"height":720},
-		{"id":"8c269763ba746b7d","type":"file","file":"Levels/Region/United Kingdom/London - City of Shattered Mirrors.md","x":460,"y":4760,"width":1080,"height":720,"color":"6"},
-		{
-			"id":"bfa97e5423cfa571",
-			"type":"text",
-			"text":"Quest will only appear after clearing all other main quest available",
-			"styleAttributes":{"textAlign":"center"},
-			"x":1940,
-			"y":4720,
-			"width":440,
-			"height":180
-		},
+		{"id":"7a6d3e737aa3b927","type":"group","x":60,"y":1060,"width":1920,"height":1000,"color":"1","label":"Indonesia"},
 		{
 			"id":"5493f9ab5b3f0887",
 			"type":"text",
@@ -40,6 +14,17 @@
 			"y":1080,
 			"width":500,
 			"height":140,
+			"color":"#00ffcc"
+		},
+		{
+			"id":"be67547dab41ff6c",
+			"type":"text",
+			"text":"Chapter 2 Require Abilities from Chapter 1",
+			"styleAttributes":{"textAlign":"center"},
+			"x":3440,
+			"y":2720,
+			"width":1120,
+			"height":520,
 			"color":"#00ffcc"
 		},
 		{"id":"73e2b55c6e2ee01a","type":"file","file":"Levels/Region/United Kingdom/London - Hollow Knight Citadel Ruins.md","x":460,"y":2440,"width":1080,"height":720,"color":"6"},
@@ -55,7 +40,22 @@
 			"width":780,
 			"height":740
 		},
-		{"id":"e478b4fc669c4ca9","type":"file","file":"Levels/Region/Indonesia/Jakarta - Dilapidated Hospital Sector.md","x":1120,"y":1180,"width":780,"height":740}
+		{"id":"e478b4fc669c4ca9","type":"file","file":"Levels/Region/Indonesia/Jakarta - Dilapidated Hospital Sector.md","x":1120,"y":1180,"width":780,"height":740},
+		{"id":"0a96a7c3a3e72966","type":"file","file":"Levels/Region/Ireland/Ireland - Fae-Hollowed Woods.md","x":1100,"y":3500,"width":940,"height":720,"color":"6"},
+		{"id":"677e3c9cac071082","type":"file","file":"Levels/Region/Pakistan/Quetta District - Chehel-Tan Limestone Valley.md","x":2160,"y":3500,"width":940,"height":720},
+		{"id":"0f03a2853513588d","type":"file","file":"Levels/Region/Japan/Tokyo - Neon Crossroads.md","x":-120,"y":3500,"width":940,"height":760},
+		{"id":"dc4fa2708df3c921","type":"file","file":"Levels/Region/Japan/Hokkaido - Frozen Echo Plains.md","x":-1180,"y":3500,"width":940,"height":760},
+		{"id":"8c269763ba746b7d","type":"file","file":"Levels/Region/United Kingdom/London - City of Shattered Mirrors.md","x":460,"y":5040,"width":1080,"height":720,"color":"6"},
+		{
+			"id":"bfa97e5423cfa571",
+			"type":"text",
+			"text":"Quest will only appear after clearing all other main quest available",
+			"styleAttributes":{"textAlign":"center"},
+			"x":1940,
+			"y":5000,
+			"width":440,
+			"height":180
+		}
 	],
 	"edges":[
 		{
