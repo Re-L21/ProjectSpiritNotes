@@ -4,12 +4,12 @@
 		{"id":"44d2f886804b124d","type":"group","x":6580,"y":-360,"width":940,"height":980,"label":"Sub Area 7"},
 		{"id":"6cc9b9ecaf53b689","type":"group","x":7620,"y":-360,"width":940,"height":980,"label":"Sub Area 8"},
 		{"id":"3ce80ca824323930","type":"group","x":8660,"y":-360,"width":940,"height":980,"label":"Sub Area 9"},
+		{"id":"f73cb3c93875c67f","type":"group","x":5540,"y":-360,"width":940,"height":980,"label":"Sub Area 6"},
 		{"id":"af0cff5abefb76f6","type":"group","x":4500,"y":-360,"width":940,"height":981,"label":"Sub Area 5"},
 		{"id":"94a411e1a0d6c498","type":"group","x":420,"y":-360,"width":940,"height":980,"label":"Sub Area 1"},
 		{"id":"b162e61412e0f7a7","type":"group","x":1440,"y":-360,"width":940,"height":980,"label":"Sub Area 2"},
 		{"id":"bd174ed670f4450e","type":"group","x":2460,"y":-360,"width":940,"height":980,"label":"Sub Area 3"},
 		{"id":"0353a62ce3091fc5","type":"group","x":3480,"y":-360,"width":940,"height":980,"label":"Sub Area 4"},
-		{"id":"f73cb3c93875c67f","type":"group","x":5540,"y":-360,"width":940,"height":980,"label":"Sub Area 6"},
 		{"id":"b1d1ac546eb72030","type":"group","x":-440,"y":-360,"width":760,"height":980,"label":"LDI List"},
 		{
 			"id":"b944ba73065b9fb1",
@@ -216,16 +216,6 @@
 		{"id":"a6282974246e2734","type":"file","file":"Levels/Level Design Ingredients/Navigational Challenges/Spike.md","x":-420,"y":-320,"width":280,"height":80},
 		{"id":"b7e83084bf468fa1","type":"file","file":"Levels/Level Design Ingredients/Navigational Challenges/Falling Rock.md","x":-420,"y":-200,"width":280,"height":80},
 		{
-			"id":"3ae32b2604acecf4",
-			"type":"text",
-			"text":"Enemies Encountered\n\n1. Grounded Standard Melee\n2. Aerial Standard Ranged\n",
-			"styleAttributes":{},
-			"x":6600,
-			"y":300,
-			"width":260,
-			"height":300
-		},
-		{
 			"id":"93c9d009d653b32c",
 			"type":"text",
 			"text":"Objective :\nMove forward",
@@ -294,26 +284,6 @@
 			"y":300,
 			"width":260,
 			"height":300
-		},
-		{
-			"id":"92b3b0e63a268828",
-			"type":"text",
-			"text":"Notes : \n\n1. Ensure that the [[Destroyable Roadblock]] is noticeable to be \"destroyed\"",
-			"styleAttributes":{},
-			"x":6120,
-			"y":-340,
-			"width":340,
-			"height":520
-		},
-		{
-			"id":"535a648595e2f4bf",
-			"type":"text",
-			"text":"Overview : \n\n1. small area, blocked by destroyable roadblock, teaching the player about some thing can be destroyed",
-			"styleAttributes":{},
-			"x":6120,
-			"y":200,
-			"width":340,
-			"height":400
 		},
 		{
 			"id":"221d4f009dbbe1f8",
@@ -406,16 +376,6 @@
 			"height":520
 		},
 		{
-			"id":"43018939ed8ad170",
-			"type":"text",
-			"text":"Objective :\nInteract the memento",
-			"styleAttributes":{"textAlign":"center"},
-			"x":6600,
-			"y":200,
-			"width":360,
-			"height":80
-		},
-		{
 			"id":"d4f247eafe3bf688",
 			"type":"text",
 			"text":"Notes : \n\n1. Ensure lighting highlights the interactable\n2. MC cannot move to the next sub area before picking up / interacting with the memento.",
@@ -436,16 +396,6 @@
 			"height":400
 		},
 		{
-			"id":"11a85737b4bf7740",
-			"type":"text",
-			"text":"Key LDI's\n\n\n",
-			"styleAttributes":{},
-			"x":6880,
-			"y":300,
-			"width":260,
-			"height":300
-		},
-		{
 			"id":"be23830c1b86318e",
 			"type":"text",
 			"text":"Notes : \n\n1. Audio needs to feel \"intense\"\n2. Post boss Narrative : MC interacting with the \"aether core\" that [[Melati Sekar Puspitasari]] turn into, and use the \"memento\" to form a contract with her. (this could be a cutscene).",
@@ -461,6 +411,56 @@
 			"text":"Overview :\n\n1. Narrative : MC entering the boss area\n",
 			"styleAttributes":{},
 			"x":9240,
+			"y":200,
+			"width":340,
+			"height":400
+		},
+		{
+			"id":"11a85737b4bf7740",
+			"type":"text",
+			"text":"Key LDI's\n\n\n",
+			"styleAttributes":{},
+			"x":6880,
+			"y":300,
+			"width":260,
+			"height":300
+		},
+		{
+			"id":"43018939ed8ad170",
+			"type":"text",
+			"text":"Objective :\nInteract the memento",
+			"styleAttributes":{"textAlign":"center"},
+			"x":6600,
+			"y":200,
+			"width":360,
+			"height":80
+		},
+		{
+			"id":"3ae32b2604acecf4",
+			"type":"text",
+			"text":"Enemies Encountered\n\n1. Grounded Standard Melee\n2. Aerial Standard Ranged\n",
+			"styleAttributes":{},
+			"x":6600,
+			"y":300,
+			"width":260,
+			"height":300
+		},
+		{
+			"id":"92b3b0e63a268828",
+			"type":"text",
+			"text":"Notes : \n\n1. Ensure that the [[Destroyable Roadblock]] is noticeable to be \"destroyed\"",
+			"styleAttributes":{},
+			"x":6120,
+			"y":-340,
+			"width":340,
+			"height":520
+		},
+		{
+			"id":"535a648595e2f4bf",
+			"type":"text",
+			"text":"Overview : \n\n1. small area, blocked by destroyable roadblock, teaching the player about some thing can be destroyed",
+			"styleAttributes":{},
+			"x":6120,
 			"y":200,
 			"width":340,
 			"height":400

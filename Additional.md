@@ -39,6 +39,9 @@
 | **R4: Antechamber**    | Pacing room before the main fight. Introduces the specific boss weakness clue. | Traverse the room to the Boss Door. Avoid **Spike** traps.         | Environmental traversal challenge using **Spike** traps.                 | QA: Test collision with spikes extensively.                            |
 | **R5: Boss Door Hall** | Short hallway leading to the Boss Room (BR1).                                  | Unlock door with [Library Key].                                    | None (Pacing hall).                                                      | Door mechanism requires [Library Key] item check.                      |
 
+# Map Area
+> Area within the same region will be interconnected with each other. (Player need to "walk" to change to another city).
+
 # Yogyakarta Progression
 > Linear progression, other area to explore will be unlocked after getting the first contracted entity. 
 #### Memento

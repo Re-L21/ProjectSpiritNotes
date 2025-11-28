@@ -6,7 +6,7 @@
 ---
 ## Ability required for locked places
 - ### Deflect
-- ### Generate Amor
+- ### Generate Armor
 - ### TBA
 
 ---

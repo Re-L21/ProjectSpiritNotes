@@ -16,17 +16,6 @@
 			"height":140,
 			"color":"#00ffcc"
 		},
-		{
-			"id":"be67547dab41ff6c",
-			"type":"text",
-			"text":"Chapter 2 Require Abilities from Chapter 1",
-			"styleAttributes":{"textAlign":"center"},
-			"x":3440,
-			"y":2720,
-			"width":1120,
-			"height":520,
-			"color":"#00ffcc"
-		},
 		{"id":"73e2b55c6e2ee01a","type":"file","file":"Levels/Region/United Kingdom/London - Hollow Knight Citadel Ruins.md","x":460,"y":2440,"width":1080,"height":720,"color":"6"},
 		{
 			"id":"ee219f9ce88db7f0",
@@ -41,10 +30,21 @@
 			"height":740
 		},
 		{"id":"e478b4fc669c4ca9","type":"file","file":"Levels/Region/Indonesia/Jakarta - Dilapidated Hospital Sector.md","x":1120,"y":1180,"width":780,"height":740},
-		{"id":"0a96a7c3a3e72966","type":"file","file":"Levels/Region/Ireland/Ireland - Fae-Hollowed Woods.md","x":1100,"y":3500,"width":940,"height":720,"color":"6"},
-		{"id":"677e3c9cac071082","type":"file","file":"Levels/Region/Pakistan/Quetta District - Chehel-Tan Limestone Valley.md","x":2160,"y":3500,"width":940,"height":720},
 		{"id":"0f03a2853513588d","type":"file","file":"Levels/Region/Japan/Tokyo - Neon Crossroads.md","x":-120,"y":3500,"width":940,"height":760},
 		{"id":"dc4fa2708df3c921","type":"file","file":"Levels/Region/Japan/Hokkaido - Frozen Echo Plains.md","x":-1180,"y":3500,"width":940,"height":760},
+		{
+			"id":"be67547dab41ff6c",
+			"type":"text",
+			"text":"Chapter 2 Require Abilities from Chapter 1",
+			"styleAttributes":{"textAlign":"center"},
+			"x":3440,
+			"y":2720,
+			"width":1120,
+			"height":520,
+			"color":"#00ffcc"
+		},
+		{"id":"0a96a7c3a3e72966","type":"file","file":"Levels/Region/Ireland/Ireland - Fae-Hollowed Woods.md","x":1100,"y":3500,"width":940,"height":720,"color":"6"},
+		{"id":"677e3c9cac071082","type":"file","file":"Levels/Region/Pakistan/Quetta District - Chehel-Tan Limestone Valley.md","x":2160,"y":3500,"width":940,"height":720},
 		{"id":"8c269763ba746b7d","type":"file","file":"Levels/Region/United Kingdom/London - City of Shattered Mirrors.md","x":460,"y":5040,"width":1080,"height":720,"color":"6"},
 		{
 			"id":"bfa97e5423cfa571",
