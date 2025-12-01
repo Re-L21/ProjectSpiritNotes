@@ -20,8 +20,8 @@ tags:
 - # Elite
 	A specialize enemy, defeating them will grant rewards such as [[Aether]], or [[Skins|Cosmetics]].
 
-- # Mobs
-	A standard type of enemies ^098e22
+- # Mobs 
+	A standard type of enemies ==that can take up to 6 hits (not including the tank/ heavy)== ^098e22
 	- ## Ground
 		1. standard (melee / ranged)
 		2. shielded (melee / ranged)

@@ -29,3 +29,15 @@
 # Soul
 	Creature that born from the dead
 
+# Nyxa
+	A Contracted Entity
+
+1. [[Melati Sekar Puspitasari]]
+2. [[Claudia Chika]]
+3. [[Naita Putri]]
+4. [[Koyuki Rin ( 小雪 凛 )]]
+5. [[Ayaki Kirise (彩姫 霧瀬)]]
+6. [[Saigyouji Yuyuko ( 西行寺 幽々子 )]]
+7. [[Chi-Tana Bibi]]
+8. [[Mairi Chattan]]
+9. [[Mary Alderton]]

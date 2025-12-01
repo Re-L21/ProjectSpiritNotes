@@ -15,8 +15,8 @@
 	- [x] [[Reinforced Wall]] ✅ 2025-11-26
 	- [x] [[Tunnel]] ✅ 2025-11-26
 	- [x] [[Wind Current]] ✅ 2025-11-26
-- [ ] Rework Ability 🔺
-	- [ ] Special Action
+- [x] Rework Ability 🔺 ✅ 2025-12-01
+	- [x] Special Action ✅ 2025-12-01
 	- [x] Explore ✅ 2025-11-27
 
 ## Prototyping

@@ -11,7 +11,7 @@ tags:
 - Health
 	- Duh
 	- Can be upgraded
-- energy
+- Energy
 	- A spiritual energy
 	- Can be upgraded
 
@@ -24,9 +24,12 @@ tags:
 	    - Heavy Weapon : n basic attack combo
 	- Parry properties : 
 	    - Can ==only affect bladed enemies== and wont affect projectiles
+	    - Stagger enemy when they're using a ==stagger able== attack type
 	    - Both enemy and player attack at the same time resulting in no damage to both sides (==and a bit of slow time?==) 
 	- Deflect properties : 
 		- Can ==affect both== projectiles and bladed attacks
+			- Refill energy
+			- Will return enemy projectile
 
 - Spirit Mechanics : 
 	- In combat : 
@@ -46,7 +49,7 @@ tags:
 		    - Every spirit has different ultimate, will always use the current spirit
 
 - Death mechanics
-	- 
+	-
 
 ## Base Camp
 
