@@ -1,116 +1,20 @@
 {
 	"nodes":[
 		{"id":"f420109bb6d11dc8","type":"group","x":-480,"y":-440,"width":10240,"height":1280,"color":"1","label":"Area 1 : Kotagede Neo-Heritage District : Forgotten Heritage Manor"},
+		{"id":"af0cff5abefb76f6","type":"group","x":4500,"y":-360,"width":940,"height":981,"label":"Sub Area 5"},
 		{"id":"44d2f886804b124d","type":"group","x":6580,"y":-360,"width":940,"height":980,"label":"Sub Area 7"},
 		{"id":"6cc9b9ecaf53b689","type":"group","x":7620,"y":-360,"width":940,"height":980,"label":"Sub Area 8"},
-		{"id":"3ce80ca824323930","type":"group","x":8660,"y":-360,"width":940,"height":980,"label":"Sub Area 9"},
 		{"id":"f73cb3c93875c67f","type":"group","x":5540,"y":-360,"width":940,"height":980,"label":"Sub Area 6"},
-		{"id":"af0cff5abefb76f6","type":"group","x":4500,"y":-360,"width":940,"height":981,"label":"Sub Area 5"},
 		{"id":"94a411e1a0d6c498","type":"group","x":420,"y":-360,"width":940,"height":980,"label":"Sub Area 1"},
 		{"id":"b162e61412e0f7a7","type":"group","x":1440,"y":-360,"width":940,"height":980,"label":"Sub Area 2"},
 		{"id":"bd174ed670f4450e","type":"group","x":2460,"y":-360,"width":940,"height":980,"label":"Sub Area 3"},
 		{"id":"0353a62ce3091fc5","type":"group","x":3480,"y":-360,"width":940,"height":980,"label":"Sub Area 4"},
+		{"id":"3ce80ca824323930","type":"group","x":8660,"y":-360,"width":940,"height":980,"label":"Sub Area 9"},
 		{"id":"b1d1ac546eb72030","type":"group","x":-440,"y":-360,"width":760,"height":980,"label":"LDI List"},
-		{
-			"id":"b944ba73065b9fb1",
-			"type":"text",
-			"text":"Enemies Encountered\n\n1. \n",
-			"styleAttributes":{},
-			"x":2480,
-			"y":300,
-			"width":260,
-			"height":300
-		},
-		{
-			"id":"ea3e56c7b3138e19",
-			"type":"text",
-			"text":"Objective :\nMove forward",
-			"styleAttributes":{"textAlign":"center"},
-			"x":2480,
-			"y":200,
-			"width":360,
-			"height":80
-		},
-		{
-			"id":"6f928fa10cc01644",
-			"type":"text",
-			"text":"Notes : \n\n1. Make the area to be spacious\n2. Put the [[Spike]] where it will make the player be wary of it\n3. There will be part of another area that visible from this level, won't be access-able until the prologue is finished  ",
-			"styleAttributes":{},
-			"x":3040,
-			"y":-340,
-			"width":340,
-			"height":520
-		},
-		{
-			"id":"621bc899cb40059c",
-			"type":"text",
-			"text":"Overview : \n\n1. Large platforming area, player needs to traverse carefully. Falling will be impaled by the [[Spike]].",
-			"styleAttributes":{},
-			"x":3040,
-			"y":200,
-			"width":340,
-			"height":400
-		},
-		{
-			"id":"7300f60a70b11e18",
-			"type":"text",
-			"text":"Key LDI's\n\n1. [[One-way Platform]]\n2. [[Spike]]\n",
-			"styleAttributes":{},
-			"x":2760,
-			"y":300,
-			"width":260,
-			"height":300
-		},
-		{
-			"id":"5aede89a7a08a68b",
-			"type":"text",
-			"text":"Objective :\nMove forward",
-			"styleAttributes":{"textAlign":"center"},
-			"x":3500,
-			"y":200,
-			"width":360,
-			"height":80
-		},
-		{
-			"id":"a9e4ed8d0b329be7",
-			"type":"text",
-			"text":"Enemies Encountered\n\n1. Grounded Standard Melee\n2. Aerial Standard Ranged\n",
-			"styleAttributes":{},
-			"x":3500,
-			"y":300,
-			"width":260,
-			"height":300
-		},
-		{
-			"id":"9b7e65935275214f",
-			"type":"text",
-			"text":"Notes : \n\n1.  Ensure the audio change is noticeable to make the player \"wary\"",
-			"styleAttributes":{},
-			"x":4060,
-			"y":-340,
-			"width":340,
-			"height":520
-		},
-		{
-			"id":"494e7eea57ccf4b2",
-			"type":"text",
-			"text":"Overview : \n\n1. Medium area, encountering more than 1 enemy",
-			"styleAttributes":{},
-			"x":4060,
-			"y":200,
-			"width":340,
-			"height":400
-		},
-		{
-			"id":"cfd13cfbcffaff20",
-			"type":"text",
-			"text":"Key LDI's\n\n\n",
-			"styleAttributes":{},
-			"x":3780,
-			"y":300,
-			"width":260,
-			"height":300
-		},
+		{"id":"eb2078652740ea75","type":"file","file":"Levels/Level Design Ingredients/Navigational Challenges/Destroyable Roadblock.md","x":-420,"y":-80,"width":400,"height":80},
+		{"id":"df9562c15deaf599","type":"file","file":"Levels/Level Design Ingredients/Navigational Challenges/One-way Platform.md","x":-420,"y":40,"width":360,"height":80},
+		{"id":"a6282974246e2734","type":"file","file":"Levels/Level Design Ingredients/Navigational Challenges/Spike.md","x":-420,"y":-320,"width":280,"height":80},
+		{"id":"b7e83084bf468fa1","type":"file","file":"Levels/Level Design Ingredients/Navigational Challenges/Falling Rock.md","x":-420,"y":-200,"width":280,"height":80},
 		{
 			"id":"f9e6fa896dc62b39",
 			"type":"text",
@@ -120,46 +24,6 @@
 			"y":-340,
 			"width":340,
 			"height":520
-		},
-		{
-			"id":"4cc77a7d6d7deeab",
-			"type":"text",
-			"text":"Overview : \n\n1.  First enemy encounter, teaching the player about combat",
-			"styleAttributes":{},
-			"x":2020,
-			"y":200,
-			"width":340,
-			"height":400
-		},
-		{
-			"id":"53c333ea42b6c78c",
-			"type":"text",
-			"text":"Key LDI's\n\n1.  None\n",
-			"styleAttributes":{},
-			"x":1740,
-			"y":300,
-			"width":260,
-			"height":300
-		},
-		{
-			"id":"58cbc015d28f1846",
-			"type":"text",
-			"text":"Objective :\nMove forward",
-			"styleAttributes":{"textAlign":"center"},
-			"x":1460,
-			"y":200,
-			"width":360,
-			"height":80
-		},
-		{
-			"id":"27d55dfa6d0ae6f1",
-			"type":"text",
-			"text":"Enemies Encountered\n\n1. Grounded Standard Melee\n",
-			"styleAttributes":{},
-			"x":1460,
-			"y":300,
-			"width":260,
-			"height":300
 		},
 		{
 			"id":"0d9cf4a41e983ddb",
@@ -211,19 +75,145 @@
 			"width":260,
 			"height":300
 		},
-		{"id":"eb2078652740ea75","type":"file","file":"Levels/Level Design Ingredients/Navigational Challenges/Destroyable Roadblock.md","x":-420,"y":-80,"width":400,"height":80},
-		{"id":"df9562c15deaf599","type":"file","file":"Levels/Level Design Ingredients/Navigational Challenges/One-way Platform.md","x":-420,"y":40,"width":360,"height":80},
-		{"id":"a6282974246e2734","type":"file","file":"Levels/Level Design Ingredients/Navigational Challenges/Spike.md","x":-420,"y":-320,"width":280,"height":80},
-		{"id":"b7e83084bf468fa1","type":"file","file":"Levels/Level Design Ingredients/Navigational Challenges/Falling Rock.md","x":-420,"y":-200,"width":280,"height":80},
 		{
-			"id":"93c9d009d653b32c",
+			"id":"ea3e56c7b3138e19",
 			"type":"text",
 			"text":"Objective :\nMove forward",
 			"styleAttributes":{"textAlign":"center"},
-			"x":5560,
+			"x":2480,
 			"y":200,
 			"width":360,
 			"height":80
+		},
+		{
+			"id":"b944ba73065b9fb1",
+			"type":"text",
+			"text":"Enemies Encountered\n\n1. \n",
+			"styleAttributes":{},
+			"x":2480,
+			"y":300,
+			"width":260,
+			"height":300
+		},
+		{
+			"id":"4cc77a7d6d7deeab",
+			"type":"text",
+			"text":"Overview : \n\n1.  First enemy encounter, teaching the player about combat",
+			"styleAttributes":{},
+			"x":2020,
+			"y":200,
+			"width":340,
+			"height":400
+		},
+		{
+			"id":"53c333ea42b6c78c",
+			"type":"text",
+			"text":"Key LDI's\n\n1.  None\n",
+			"styleAttributes":{},
+			"x":1740,
+			"y":300,
+			"width":260,
+			"height":300
+		},
+		{
+			"id":"58cbc015d28f1846",
+			"type":"text",
+			"text":"Objective :\nMove forward",
+			"styleAttributes":{"textAlign":"center"},
+			"x":1460,
+			"y":200,
+			"width":360,
+			"height":80
+		},
+		{
+			"id":"27d55dfa6d0ae6f1",
+			"type":"text",
+			"text":"Enemies Encountered\n\n1. Grounded Standard Melee\n",
+			"styleAttributes":{},
+			"x":1460,
+			"y":300,
+			"width":260,
+			"height":300
+		},
+		{
+			"id":"7300f60a70b11e18",
+			"type":"text",
+			"text":"Key LDI's\n\n1. [[One-way Platform]]\n2. [[Spike]]\n",
+			"styleAttributes":{},
+			"x":2760,
+			"y":300,
+			"width":260,
+			"height":300
+		},
+		{
+			"id":"6f928fa10cc01644",
+			"type":"text",
+			"text":"Notes : \n\n1. Make the area to be spacious\n2. Put the [[Spike]] where it will make the player be wary of it\n3. There will be part of another area that visible from this level, won't be access-able until the prologue is finished  ",
+			"styleAttributes":{},
+			"x":3040,
+			"y":-340,
+			"width":340,
+			"height":520
+		},
+		{
+			"id":"621bc899cb40059c",
+			"type":"text",
+			"text":"Overview : \n\n1. Large platforming area, player needs to traverse carefully. Falling will be impaled by the [[Spike]].",
+			"styleAttributes":{},
+			"x":3040,
+			"y":200,
+			"width":340,
+			"height":400
+		},
+		{
+			"id":"5aede89a7a08a68b",
+			"type":"text",
+			"text":"Objective :\nMove forward",
+			"styleAttributes":{"textAlign":"center"},
+			"x":3500,
+			"y":200,
+			"width":360,
+			"height":80
+		},
+		{
+			"id":"cfd13cfbcffaff20",
+			"type":"text",
+			"text":"Key LDI's\n\n\n",
+			"styleAttributes":{},
+			"x":3780,
+			"y":300,
+			"width":260,
+			"height":300
+		},
+		{
+			"id":"a9e4ed8d0b329be7",
+			"type":"text",
+			"text":"Enemies Encountered\n\n1. Grounded Standard Melee\n2. Aerial Standard Ranged\n",
+			"styleAttributes":{},
+			"x":3500,
+			"y":300,
+			"width":260,
+			"height":300
+		},
+		{
+			"id":"9b7e65935275214f",
+			"type":"text",
+			"text":"Notes : \n\n1.  Ensure the audio change is noticeable to make the player \"wary\"",
+			"styleAttributes":{},
+			"x":4060,
+			"y":-340,
+			"width":340,
+			"height":520
+		},
+		{
+			"id":"494e7eea57ccf4b2",
+			"type":"text",
+			"text":"Overview : \n\n1. Medium area, encountering more than 1 enemy",
+			"styleAttributes":{},
+			"x":4060,
+			"y":200,
+			"width":340,
+			"height":400
 		},
 		{
 			"id":"b20d37f218244382",
@@ -241,6 +231,16 @@
 			"text":"Enemies Encountered\n\n1. Aerial Standard Ranged\n",
 			"styleAttributes":{},
 			"x":4520,
+			"y":301,
+			"width":260,
+			"height":300
+		},
+		{
+			"id":"fdc57894c57bdcf9",
+			"type":"text",
+			"text":"Key LDI's\n\n1. [[One-way Platform]]\n2. [[Falling Rock]]\n3. [[Spike]]",
+			"styleAttributes":{},
+			"x":4800,
 			"y":301,
 			"width":260,
 			"height":300
@@ -266,14 +266,14 @@
 			"height":521
 		},
 		{
-			"id":"fdc57894c57bdcf9",
+			"id":"93c9d009d653b32c",
 			"type":"text",
-			"text":"Key LDI's\n\n1. [[One-way Platform]]\n2. [[Falling Rock]]\n3. [[Spike]]",
-			"styleAttributes":{},
-			"x":4800,
-			"y":301,
-			"width":260,
-			"height":300
+			"text":"Objective :\nMove forward",
+			"styleAttributes":{"textAlign":"center"},
+			"x":5560,
+			"y":200,
+			"width":360,
+			"height":80
 		},
 		{
 			"id":"2d3480a236fee53f",
@@ -296,134 +296,24 @@
 			"height":300
 		},
 		{
-			"id":"800fc0a3690e2ab8",
+			"id":"92b3b0e63a268828",
 			"type":"text",
-			"text":"Objective :\nDefeat [[Melati Sekar Puspitasari]]",
-			"styleAttributes":{"textAlign":"center"},
-			"x":8680,
-			"y":200,
-			"width":360,
-			"height":80
-		},
-		{
-			"id":"4585c89e7fd8017d",
-			"type":"text",
-			"text":"Enemies Encountered\n\n1. [[Melati Sekar Puspitasari]]",
+			"text":"Notes : \n\n1. Ensure that the [[Destroyable Roadblock]] is noticeable to be \"destroyed\"",
 			"styleAttributes":{},
-			"x":8680,
-			"y":300,
-			"width":260,
-			"height":300
-		},
-		{
-			"id":"554a826dabd193d9",
-			"type":"text",
-			"text":"Objective :\nInteract with the [[SavePoint]]",
-			"styleAttributes":{"textAlign":"center"},
-			"x":7640,
-			"y":200,
-			"width":360,
-			"height":80
-		},
-		{
-			"id":"79ebfa034e425f9d",
-			"type":"text",
-			"text":"Enemies Encountered\n\n",
-			"styleAttributes":{},
-			"x":7640,
-			"y":300,
-			"width":260,
-			"height":300
-		},
-		{
-			"id":"aa4ded3823ba1c10",
-			"type":"text",
-			"text":"Overview : \n\n 1. Narrative : MC notice the area is safe enough if he want to take a break first before moving forward\n2. Small safe area to save progress",
-			"styleAttributes":{},
-			"x":8200,
-			"y":200,
-			"width":340,
-			"height":400
-		},
-		{
-			"id":"55f2a0ed97e6e596",
-			"type":"text",
-			"text":"Key LDI's\n\n1. Bench? ",
-			"styleAttributes":{},
-			"x":7920,
-			"y":300,
-			"width":260,
-			"height":300
-		},
-		{
-			"id":"e4a9d4c34952e695",
-			"type":"text",
-			"text":"Key LDI's\n\n\n",
-			"styleAttributes":{},
-			"x":8960,
-			"y":300,
-			"width":260,
-			"height":300
-		},
-		{
-			"id":"7f2a695298b2c8dd",
-			"type":"text",
-			"text":"Notes : \n\n1. Ensure lighting highlights the interactable\n2. Music needs to be \"calming\" when in this area\n3. This is a [[Save Zone]].",
-			"styleAttributes":{},
-			"x":8200,
+			"x":6120,
 			"y":-340,
 			"width":340,
 			"height":520
 		},
 		{
-			"id":"d4f247eafe3bf688",
+			"id":"535a648595e2f4bf",
 			"type":"text",
-			"text":"Notes : \n\n1. Ensure lighting highlights the interactable\n2. MC cannot move to the next sub area before picking up / interacting with the memento.",
+			"text":"Overview : \n\n1. small area, blocked by destroyable roadblock, teaching the player about some thing can be destroyed",
 			"styleAttributes":{},
-			"x":7160,
-			"y":-340,
-			"width":340,
-			"height":520
-		},
-		{
-			"id":"b65f153594e2988f",
-			"type":"text",
-			"text":"Overview : \n\n1. Narrative : MC see something on the ground surrounded by the enemy (First time encountering ==memento==).\n2. Medium area, encountering more than 1 enemy",
-			"styleAttributes":{},
-			"x":7160,
+			"x":6120,
 			"y":200,
 			"width":340,
 			"height":400
-		},
-		{
-			"id":"be23830c1b86318e",
-			"type":"text",
-			"text":"Notes : \n\n1. Audio needs to feel \"intense\"\n2. Post boss Narrative : MC interacting with the \"aether core\" that [[Melati Sekar Puspitasari]] turn into, and use the \"memento\" to form a contract with her. (this could be a cutscene).",
-			"styleAttributes":{},
-			"x":9240,
-			"y":-340,
-			"width":340,
-			"height":520
-		},
-		{
-			"id":"1b8d1b51c15e5c88",
-			"type":"text",
-			"text":"Overview :\n\n1. Narrative : MC entering the boss area\n",
-			"styleAttributes":{},
-			"x":9240,
-			"y":200,
-			"width":340,
-			"height":400
-		},
-		{
-			"id":"11a85737b4bf7740",
-			"type":"text",
-			"text":"Key LDI's\n\n\n",
-			"styleAttributes":{},
-			"x":6880,
-			"y":300,
-			"width":260,
-			"height":300
 		},
 		{
 			"id":"43018939ed8ad170",
@@ -446,21 +336,131 @@
 			"height":300
 		},
 		{
-			"id":"92b3b0e63a268828",
+			"id":"11a85737b4bf7740",
 			"type":"text",
-			"text":"Notes : \n\n1. Ensure that the [[Destroyable Roadblock]] is noticeable to be \"destroyed\"",
+			"text":"Key LDI's\n\n\n",
 			"styleAttributes":{},
-			"x":6120,
+			"x":6880,
+			"y":300,
+			"width":260,
+			"height":300
+		},
+		{
+			"id":"d4f247eafe3bf688",
+			"type":"text",
+			"text":"Notes : \n\n1. Ensure lighting highlights the interactable\n2. MC cannot move to the next sub area before picking up / interacting with the memento.",
+			"styleAttributes":{},
+			"x":7160,
 			"y":-340,
 			"width":340,
 			"height":520
 		},
 		{
-			"id":"535a648595e2f4bf",
+			"id":"b65f153594e2988f",
 			"type":"text",
-			"text":"Overview : \n\n1. small area, blocked by destroyable roadblock, teaching the player about some thing can be destroyed",
+			"text":"Overview : \n\n1. Narrative : MC see something on the ground surrounded by the enemy (First time encountering ==memento==).\n2. Medium area, encountering more than 1 enemy",
 			"styleAttributes":{},
-			"x":6120,
+			"x":7160,
+			"y":200,
+			"width":340,
+			"height":400
+		},
+		{
+			"id":"554a826dabd193d9",
+			"type":"text",
+			"text":"Objective :\nInteract with the [[SavePoint]]",
+			"styleAttributes":{"textAlign":"center"},
+			"x":7640,
+			"y":200,
+			"width":360,
+			"height":80
+		},
+		{
+			"id":"79ebfa034e425f9d",
+			"type":"text",
+			"text":"Enemies Encountered\n\n",
+			"styleAttributes":{},
+			"x":7640,
+			"y":300,
+			"width":260,
+			"height":300
+		},
+		{
+			"id":"55f2a0ed97e6e596",
+			"type":"text",
+			"text":"Key LDI's\n\n1. Bench? ",
+			"styleAttributes":{},
+			"x":7920,
+			"y":300,
+			"width":260,
+			"height":300
+		},
+		{
+			"id":"aa4ded3823ba1c10",
+			"type":"text",
+			"text":"Overview : \n\n 1. Narrative : MC notice the area is safe enough if he want to take a break first before moving forward\n2. Small safe area to save progress",
+			"styleAttributes":{},
+			"x":8200,
+			"y":200,
+			"width":340,
+			"height":400
+		},
+		{
+			"id":"7f2a695298b2c8dd",
+			"type":"text",
+			"text":"Notes : \n\n1. Ensure lighting highlights the interactable\n2. Music needs to be \"calming\" when in this area\n3. This is a [[Save Zone]].",
+			"styleAttributes":{},
+			"x":8200,
+			"y":-340,
+			"width":340,
+			"height":520
+		},
+		{
+			"id":"800fc0a3690e2ab8",
+			"type":"text",
+			"text":"Objective :\nDefeat [[Melati Sekar Puspitasari]]",
+			"styleAttributes":{"textAlign":"center"},
+			"x":8680,
+			"y":200,
+			"width":360,
+			"height":80
+		},
+		{
+			"id":"4585c89e7fd8017d",
+			"type":"text",
+			"text":"Enemies Encountered\n\n1. [[Melati Sekar Puspitasari]]",
+			"styleAttributes":{},
+			"x":8680,
+			"y":300,
+			"width":260,
+			"height":300
+		},
+		{
+			"id":"e4a9d4c34952e695",
+			"type":"text",
+			"text":"Key LDI's\n\n\n",
+			"styleAttributes":{},
+			"x":8960,
+			"y":300,
+			"width":260,
+			"height":300
+		},
+		{
+			"id":"be23830c1b86318e",
+			"type":"text",
+			"text":"Notes : \n\n1. Audio needs to feel \"intense\"\n2. Post boss Narrative : MC interacting with the \"aether core\" that [[Melati Sekar Puspitasari]] turn into, and use the \"memento\" to form a contract with her. (this could be a cutscene).",
+			"styleAttributes":{},
+			"x":9240,
+			"y":-340,
+			"width":340,
+			"height":520
+		},
+		{
+			"id":"1b8d1b51c15e5c88",
+			"type":"text",
+			"text":"Overview :\n\n1. Narrative : MC entering the boss area\n",
+			"styleAttributes":{},
+			"x":9240,
 			"y":200,
 			"width":340,
 			"height":400
