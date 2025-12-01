@@ -3,46 +3,20 @@ aliases:
   - Rin
 tags:
   - remote
-  - ContractedEntity
+  - Nyxa
 Ability: Remote
 ---
 [[Entity]]
 
 ---
+# Traversal Ability 
+- #### Remote
+	Rin can interact with a certain devices that require an operator
 
-# Lore Ability
-## Kemampuan Psionik – Frost Dominion
+# Combat Ability
+- #### Freezing Field
+	Rin makes the field freezing cold making the enemy sluggish (slow)
 
-### Ability Utama – Frost Dominion
-
-Rin dapat memanipulasi suhu psionik di area sekitar MC:
-- memperlambat musuh (frost slow)
-- membekukan entitas yang terlalu dekat
-- menciptakan badai salju radius kecil
-- resistansi dingin ekstrem untuk MC
-
-
-### Remote Spirit Navigation (Exploration Ability)
-
-Melalui Spirit Conduit, MC dapat mengirim Rin ke area tertentu untuk:
-
-- mengaktifkan mekanisme puzzle
-- menjangkau platform jauh
-- menurunkan jembatan es
-- membuka pintu frost-locked
-- reveal jalur tersembunyi di udara dingin
-
-### Weapon Manifestation – Yuki Spear / Ice Icicle Burst
-
-Rin mampu:
-- memanggil 4–6 icicles besar yang mengorbit dirinya
-- mengirimkannya sebagai projectile (mirip Shiva FF15)
-- men-summon tombak es raksasa dari udara dingin
-
----
-
-## Concept Art
-
-![[rin1.png]]
-
-![[rin2.png]]
+# Ultimate Ability
+- #### Ice Captive 
+	Rin uses freezing field and froze a single enemy within ice, attacking them while frozen makes the enemy received more damage

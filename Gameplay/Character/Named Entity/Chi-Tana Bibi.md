@@ -3,48 +3,20 @@ aliases:
   - Children
 tags:
   - doubleJump
-  - ContractedEntity
+  - Nyxa
 Ability: Double Jump
 ---
-
-[[Project-Spirits]]
+[[Entity]]
 
 ---
-Kemampuan Psionik – Girlscout TogAether!
+# Traversal Ability 
+- #### Double Jump
+	Able to jump twice
 
-## Ability Utama – Double Jump
+# Combat Ability
+- #### Anchor of Innocence
+	Propels one of the children forward and bind one enemy
 
-Nama Ability: Girlscout: TogAether!
-
-Lore:  
-Semua 40 jiwa anak-anak muncul sebagai siluet imut berwujud “anak-anak scout”, yang:
-
-- menarik MC,
-- mendorong MC,
-- atau mengangkat MC dari bawah,
-
-→ menghasilkan Double Jump yang lucu, chaotic, dan sangat khas Chiltana.
-
-Animasi sedikit berubah-ubah tiap jump
-(karena 40 anak punya penampilan psionik berbeda-beda).
-
-## Ultimate – Chehel Swarm Assault
-
-Chiltana meniup peluit girlscout:
-
-“SEMUA!!! GOOO!!!”
-
-Lalu 39 jiwa lain muncul:
-
-- berlari ke musuh
-- menubruk
-- menggelitik
-- menyerbu seperti gelombang kecil
-
-Efek:
-
-- swarm damage
-- stagger kecil
-- visual lucu & colorful
-
-Inspirasi dari ultimate Braum di 2xKO
+# Ultimate Ability
+- #### Innocent's Shackles
+	Send bunch of children to bind multiple enemy at once for `x` seconds

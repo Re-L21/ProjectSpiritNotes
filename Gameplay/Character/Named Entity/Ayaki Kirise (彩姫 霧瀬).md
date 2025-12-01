@@ -2,24 +2,24 @@
 aliases:
   - Kijo - Murasaki no Oni
 tags:
-  - ContractedEntity
   - WallRun
   - WallJump
+  - Nyxa
 Ability: Wall Run
 ---
+[[Entity]]
 
-### Traversal Ability: Wall Running
+---
+# Traversal Ability 
+- #### Wall Run
+	She's able to run on the walls
+- #### Wall Jump
+	She's able to jump wall to wall
 
-- berlari vertikal di dinding & tebing
-- chaining wall jumps
+# Combat Ability
+- #### Murasaki Rift Slash 
+	Releasing energy wave forward, will disappear after making contact with an object (Can be charged)
 
-### Combat Ability
-
-- Murasaki Rift Slash – tebasan psionik ungu yang jangkauan sangat luas  
-
-### Ultimate Ability
-
-# Murasaki no jigen kiri (Purple dimension slash)
-
-Konsep:  
-Ayaki menciptakan domain kecil berbentuk kabut ungu pekat (radius ~½ screen), lalu dalam satu momen dia menghilang, muncul di udara, menebas sekali — dan seluruh area langsung terbelah dalam satu garis besar Aether ungu.
+# Ultimate Ability
+- #### Murasaki no jigen kiri
+	Releasing powerful energy wave forward at the cost of user's health, dealing massive amount of damage (Final Getsuga Tensho/ Excalibur move from fate)

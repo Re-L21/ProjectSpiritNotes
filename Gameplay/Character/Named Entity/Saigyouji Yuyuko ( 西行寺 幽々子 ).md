@@ -2,32 +2,21 @@
 aliases:
   - Yuyuko
 tags:
-  - ContractedEntity
   - Glide
+  - Nyxa
 Ability: Glide
 ---
 [[Entity]]
 
 ---
-## Ability Utama – Butterfly Swarm
+# Traversal Ability 
+- #### Glide
+	Yuyuko grabs mc and open her umbrella while falling, making the fall slower
 
-Yuyuko dapat memanggil ratusan kupu-kupu psionik kecil (mirip energi reinkarnasi halus) yang menyerang musuh secara terus-menerus.
+# Combat Ability
+- #### Butterfly Orbit
+	She summon `x` amount of butterfly to orbit around [[Main Character|mc]], damaging everything that overlap with it
 
-Efeknya:
-
-- DPS kontinu (chip damage)
-- horizontal zoning
-- bagus melawan musuh kecil atau agresif
-- bisa distracting → membuat entitas kehilangan fokus sesaat
-
-
-Butterfly ini tidak memakai elemen atau frost ,  hanya energi psionik natural yang harmless ke manusia.
-
-## Mobility Ability – Spirit Glide (Exploration)
-
-Yuyuko dapat menggendong MC dari udara, membuat MC bisa:
-
-- gliding horizontal jauh    
-- memperlambat jatuh (float)    
-- mengakses platform tinggi    
-- melewati jurang atau area sulit
+# Ultimate Ability
+- #### Butterfly Swarm
+	Yuyuko sends all of her butterfly that currently orbiting [[Main Character|mc]] to enemy dealing damage scaling with the remaining butterfly (require butterfly orbit to active)

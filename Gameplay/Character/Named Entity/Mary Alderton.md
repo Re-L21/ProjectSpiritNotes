@@ -3,42 +3,24 @@ aliases:
   - Bloody Mary
 tags:
   - Demon
-  - ContractedDemon
   - Dart
   - Dash
+  - Nyxa
 Ability: Dash & Dart
 ---
-
-[[Project-Spirits]]
+[[Entity]]
 
 ---
-# Kemampuan Psionik – “Mirror Execution”
+# Traversal Ability 
+- #### Dash
+	Move rapidly over a short distance while dodging incoming attack
+- #### Dart
+	Move rapidly towards an entity and deal damage
 
-## 1. Dash and Darting Ability – Rift Step
+# Combat Ability
+- #### Rift Step
+	She dashes to enemy, deal damage, and marking them
 
-Mary dapat muncul dari:
-
-- cermin kecil
-- pantulan air
-- serpihan kaca
-- pantulan refleksi air atau besi
-
-
-Teleports silently.
-
-## 2. Passive – Reflection Kill
-
-Jika bayangan MC/target terlihat di permukaan reflektif:  
-Mary bisa menyerang refleksi itu dan damage diterapkan langsung.
-
-Ini yang membunuh Nait. Nait tidak bisa menutupi setiap pantulan di reruntuhan London.
-
-## 3. Ultimate – “Hall of Infinite Marys”
-
-Domain Expansion :
-
-- area berubah menjadi ruangan putih kosong
-- lantai kaca
-- puluhan Mary muncul di tiap sisi
-- hanya satu asli
-- kalau salah tebak → mati
+# Ultimate Ability
+- ### Mirror Execution
+	Mary teleport to enemy and deal massive single target damage (one shot most enemy, but require a "mark" on the enemy)

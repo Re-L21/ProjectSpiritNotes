@@ -6,46 +6,15 @@
 
 ---
 
-## Basic Action
+| No. | Nyxa                                               | Exploration          | Ability             | Ultimate               | Type                             |
+| :-: | :------------------------------------------------- | :------------------- | :------------------ | :--------------------- | :------------------------------- |
+| 1.  | [[Melati Sekar Puspitasari]]                       | None                 | Deflect             | Projectile Protection  | Utility                          |
+| 2.  | [[Claudia Chika]]                                  | Crouch & Slide       | Heal                | Regeneration           | Healer                           |
+| 3.  | [[Naita Putri]]                                    | None                 | Iron Skin           | Heavy Armor Mode       | Defensive Buff                   |
+| 4.  | [[Koyuki Rin ( 小雪 凛 )\|Koyuki Rin]]                | Remote               | Freezing Field      | Ice Captive            | Debuff                           |
+| 5.  | [[Ayaki Kirise (彩姫 霧瀬)\| Ayaki Kirise]]            | Wall Run & Wall Jump | Murasaki Rift Slash | Murasaki no Jigen Kiri | Damage, AoE                      |
+| 6.  | [[Saigyouji Yuyuko ( 西行寺 幽々子 )\|Saigyouji Yuyuko]] | Glide                | Butterfly Orbit     | Butterfly Swarm        | Damage, Projectile               |
+| 7.  | [[Chi-Tana Bibi]]                                  | Double Jump          | Anchor of Innocence | Innocent's Shackles    | Buff, Debuff AoE                 |
+| 8.  | [[Mairi Chattan]]                                  | Sprint               | Speed Buff          | Nine Lives Assault     | Mobility Buff, Follow up attacks |
+| 9.  | [[Mary Alderton]]                                  | Dash & Dart          | Rift Step           | Mirror Execution       | Damage                           |
 
-- Deflect
-	- Unlocked after defeating [[Melati Sekar Puspitasari |Sekar]] in chapter 1
-
-## Explore 
-
-- Sprint & Wall Run & Wall Jump
-	- Unlocked after defeating [[Mairi Chattan]] in chapter 2
-- Slide & Crouch
-	- Unlocked after defeating [[Claudia Chika]] in chapter 1
-- Dash & Dart
-	- Unlocked after defeating [[Mary Alderton]] in chapter 3
-- Double Jump
-	- Unlocked after defeating [[Chi-Tana Bibi]] in chapter 3
-- Remote
-	- Unlocked after defeating [[Koyuki Rin ( 小雪 凛 )|rin]] in chapter 2
-- Glide
-	- Unlocked after defeating [[Saigyouji Yuyuko ( 西行寺 幽々子 )|Yuyuko]] in chapter 2
-
-## Special Actions / Spells
-
-- [[Mairi Chattan]]
-	- Rapid Punch, Extender
-- [[Claudia Chika]]
-	- ~~Sweep Attack, Launcher and can attack downed enemies~~
-	- ==Player phase through enemy and show up behind them==
-- [[Mary Alderton]]
-	- ~~Slash Upward and jump, Launcher~~
-	- ==Player dash to enemy dealing damage==
-- [[Naita Putri]]
-	- Generate Armor, support
-- [[Melati Sekar Puspitasari|Sekar]]
-	- Stagger Enemies, Utility
-- [[Chi-Tana Bibi]]
-	- Rapid Attack with Clones, damage
-- [[Koyuki Rin ( 小雪 凛 )|rin]]
-	- ~~Slow Enemies, Utility + Extender~~
-	- ==Sent spirit forward and create a slow AoE around the spirit==
-- [[Saigyouji Yuyuko ( 西行寺 幽々子 )|Yuyuko]]
-	- Orbit Butterfly around character, Utility + Launcher
-
-## Ultimate 
