@@ -1,10 +1,10 @@
 
 ---
-## Region Purpose
+# Region Purpose
 > Main story
 
 ---
-## Ability required for locked places
+# Ability required for locked places
 - ### Crouch
 - ### TBA
 

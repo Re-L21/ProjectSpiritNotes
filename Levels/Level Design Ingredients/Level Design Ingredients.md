@@ -1,6 +1,5 @@
 ---
 aliases:
-  - ldi
   - LDI
 ---
 [[Project-Spirits]]

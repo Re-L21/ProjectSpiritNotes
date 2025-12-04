@@ -1,10 +1,10 @@
 
 ---
-## Region Purpose
+# Region Purpose
 > Side story, Unlock more ability
 
 ---
-## Ability required for locked places
+# Ability required for locked places
 - ### Crouch
 - ### TBA
 

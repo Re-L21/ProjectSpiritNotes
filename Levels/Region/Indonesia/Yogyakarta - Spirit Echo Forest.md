@@ -1,10 +1,10 @@
 
 ---
-## Region Purpose
+# Region Purpose
 > Prologue of the story, Tutorial stage
 
 ---
-## Ability required for locked places
+# Ability required for locked places
 - ### TBA
 
 ---
