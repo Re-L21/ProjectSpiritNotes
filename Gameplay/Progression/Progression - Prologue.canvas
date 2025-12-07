@@ -14,6 +14,72 @@
 		{"id":"de539dfe943a4d7b","type":"group","x":10500,"y":-560,"width":940,"height":980,"color":"6","label":"Post Prologue"},
 		{"id":"b1d1ac546eb72030","type":"group","x":-640,"y":-560,"width":760,"height":980,"color":"1","label":"LDI List"},
 		{
+			"id":"70ae8c120118a005",
+			"type":"text",
+			"text":"Key LDI's\n\n1.  None\n",
+			"styleAttributes":{},
+			"x":520,
+			"y":100,
+			"width":260,
+			"height":300,
+			"color":"1"
+		},
+		{
+			"id":"e78774bb88ce4505",
+			"type":"text",
+			"text":"Objective :\nLook for the red site core ",
+			"styleAttributes":{"textAlign":"center"},
+			"x":240,
+			"y":0,
+			"width":360,
+			"height":80,
+			"color":"1"
+		},
+		{
+			"id":"a7e8e446c16cb125",
+			"type":"text",
+			"text":"Enemies Encountered\n\n1.  None\n",
+			"styleAttributes":{},
+			"x":240,
+			"y":100,
+			"width":260,
+			"height":300,
+			"color":"1"
+		},
+		{
+			"id":"aaf68b1f141f8aee",
+			"type":"text",
+			"text":"## Puzzle\n\n1. None",
+			"styleAttributes":{},
+			"x":-240,
+			"y":-520,
+			"width":340,
+			"height":340,
+			"color":"1"
+		},
+		{
+			"id":"2a833058868d0c8d",
+			"type":"text",
+			"text":"## Hostiles\n\n1. Grounded Standard Melee\n2. Aerial Standard Ranged",
+			"styleAttributes":{},
+			"x":-240,
+			"y":-140,
+			"width":340,
+			"height":340,
+			"color":"1"
+		},
+		{
+			"id":"bb111e0ea579003d",
+			"type":"text",
+			"text":"## Navigation\n\n1. [[Spike]]\n2. [[Falling Rock]]\n3. [[Destroyable Roadblock]]\n4. [[One-way Platform]]",
+			"styleAttributes":{},
+			"x":-620,
+			"y":-520,
+			"width":340,
+			"height":720,
+			"color":"1"
+		},
+		{
 			"id":"800fc0a3690e2ab8",
 			"type":"text",
 			"text":"Objective :\nDefeat [[Melati Sekar Puspitasari]]",
@@ -23,83 +89,6 @@
 			"width":360,
 			"height":80,
 			"color":"1"
-		},
-		{
-			"id":"b2f9f4834333df49",
-			"type":"text",
-			"text":"Notes : \n\n1.  Teaching player about [[Melati Sekar Puspitasari|Deflect]].",
-			"styleAttributes":{},
-			"x":10060,
-			"y":-540,
-			"width":340,
-			"height":520,
-			"color":"1"
-		},
-		{
-			"id":"d1a3948070f864a0",
-			"type":"text",
-			"text":"Overview :\n\n1. Narrative : MC learn about [[Melati Sekar Puspitasari|Deflect]] ability\n",
-			"styleAttributes":{},
-			"x":10060,
-			"y":0,
-			"width":340,
-			"height":400,
-			"color":"1"
-		},
-		{
-			"id":"52823ceaf869d39e",
-			"type":"text",
-			"text":"Objective :\nReturn to HQ",
-			"styleAttributes":{"textAlign":"center"},
-			"x":10520,
-			"y":0,
-			"width":360,
-			"height":80,
-			"color":"6"
-		},
-		{
-			"id":"f489206f31a7776c",
-			"type":"text",
-			"text":"Enemies Encountered\n\n1. ",
-			"styleAttributes":{},
-			"x":10520,
-			"y":100,
-			"width":260,
-			"height":300,
-			"color":"6"
-		},
-		{
-			"id":"72dc4068baeb4552",
-			"type":"text",
-			"text":"Key LDI's\n\n1.  ",
-			"styleAttributes":{},
-			"x":10800,
-			"y":100,
-			"width":260,
-			"height":300,
-			"color":"6"
-		},
-		{
-			"id":"2671d5d6303b20ad",
-			"type":"text",
-			"text":"Notes : \n\n1.  ",
-			"styleAttributes":{},
-			"x":11080,
-			"y":-540,
-			"width":340,
-			"height":520,
-			"color":"6"
-		},
-		{
-			"id":"9a779ae1d73ef71a",
-			"type":"text",
-			"text":"Overview :\n\n1. Narrative : HQ contacted MC to go back ",
-			"styleAttributes":{},
-			"x":11080,
-			"y":0,
-			"width":340,
-			"height":400,
-			"color":"6"
 		},
 		{
 			"id":"4585c89e7fd8017d",
@@ -118,61 +107,6 @@
 			"text":"Key LDI's\n\n\n",
 			"styleAttributes":{},
 			"x":8760,
-			"y":100,
-			"width":260,
-			"height":300,
-			"color":"1"
-		},
-		{
-			"id":"be23830c1b86318e",
-			"type":"text",
-			"text":"Notes : \n\n1. Audio needs to feel \"intense\"\n2. Post boss Narrative : MC interacting with the \"aether core\" that [[Melati Sekar Puspitasari]] turn into, and use the \"memento\" to form a contract with her. (this could be a cutscene).",
-			"styleAttributes":{},
-			"x":9040,
-			"y":-540,
-			"width":340,
-			"height":520,
-			"color":"1"
-		},
-		{
-			"id":"1b8d1b51c15e5c88",
-			"type":"text",
-			"text":"Overview :\n\n1. Narrative : MC entering the boss area. After entering the area, the paths behind MC will be closed by [[Reinforced Wall]].",
-			"styleAttributes":{},
-			"x":9040,
-			"y":0,
-			"width":340,
-			"height":400,
-			"color":"1"
-		},
-		{
-			"id":"d21d4dbc8c357a28",
-			"type":"text",
-			"text":"Objective :\nDestroy the [[Reinforced Wall]]",
-			"styleAttributes":{"textAlign":"center"},
-			"x":9500,
-			"y":0,
-			"width":360,
-			"height":80,
-			"color":"1"
-		},
-		{
-			"id":"e09c841ec80358b1",
-			"type":"text",
-			"text":"Enemies Encountered\n\n1. ",
-			"styleAttributes":{},
-			"x":9500,
-			"y":100,
-			"width":260,
-			"height":300,
-			"color":"1"
-		},
-		{
-			"id":"077483fe2643f7fa",
-			"type":"text",
-			"text":"Key LDI's\n\n1.  [[Reinforced Wall]]",
-			"styleAttributes":{},
-			"x":9780,
 			"y":100,
 			"width":260,
 			"height":300,
@@ -234,6 +168,28 @@
 			"color":"1"
 		},
 		{
+			"id":"be23830c1b86318e",
+			"type":"text",
+			"text":"Notes : \n\n1. Audio needs to feel \"intense\"\n2. Post boss Narrative : MC interacting with the \"aether core\" that [[Melati Sekar Puspitasari]] turn into, and use the \"memento\" to form a contract with her. (this could be a cutscene).",
+			"styleAttributes":{},
+			"x":9040,
+			"y":-540,
+			"width":340,
+			"height":520,
+			"color":"1"
+		},
+		{
+			"id":"1b8d1b51c15e5c88",
+			"type":"text",
+			"text":"Overview :\n\n1. Narrative : MC entering the boss area. After entering the area, the paths behind MC will be closed by [[Reinforced Wall]].",
+			"styleAttributes":{},
+			"x":9040,
+			"y":0,
+			"width":340,
+			"height":400,
+			"color":"1"
+		},
+		{
 			"id":"d4f247eafe3bf688",
 			"type":"text",
 			"text":"Notes : \n\n1. Ensure lighting highlights the interactable\n2. MC cannot move to the next sub area before picking up / interacting with the memento.",
@@ -267,6 +223,28 @@
 			"color":"1"
 		},
 		{
+			"id":"d21d4dbc8c357a28",
+			"type":"text",
+			"text":"Objective :\nDestroy the [[Reinforced Wall]]",
+			"styleAttributes":{"textAlign":"center"},
+			"x":9500,
+			"y":0,
+			"width":360,
+			"height":80,
+			"color":"1"
+		},
+		{
+			"id":"e09c841ec80358b1",
+			"type":"text",
+			"text":"Enemies Encountered\n\n1. ",
+			"styleAttributes":{},
+			"x":9500,
+			"y":100,
+			"width":260,
+			"height":300,
+			"color":"1"
+		},
+		{
 			"id":"43018939ed8ad170",
 			"type":"text",
 			"text":"Objective :\nInteract the memento",
@@ -283,6 +261,17 @@
 			"text":"Enemies Encountered\n\n1. Grounded Standard Melee\n2. Aerial Standard Ranged\n",
 			"styleAttributes":{},
 			"x":6400,
+			"y":100,
+			"width":260,
+			"height":300,
+			"color":"1"
+		},
+		{
+			"id":"077483fe2643f7fa",
+			"type":"text",
+			"text":"Key LDI's\n\n1.  [[Reinforced Wall]]",
+			"styleAttributes":{},
+			"x":9780,
 			"y":100,
 			"width":260,
 			"height":300,
@@ -309,6 +298,50 @@
 			"width":340,
 			"height":400,
 			"color":"1"
+		},
+		{
+			"id":"b2f9f4834333df49",
+			"type":"text",
+			"text":"Notes : \n\n1.  Teaching player about [[Melati Sekar Puspitasari|Deflect]].",
+			"styleAttributes":{},
+			"x":10060,
+			"y":-540,
+			"width":340,
+			"height":520,
+			"color":"1"
+		},
+		{
+			"id":"d1a3948070f864a0",
+			"type":"text",
+			"text":"Overview :\n\n1. Narrative : MC learn about [[Melati Sekar Puspitasari|Deflect]] ability\n",
+			"styleAttributes":{},
+			"x":10060,
+			"y":0,
+			"width":340,
+			"height":400,
+			"color":"1"
+		},
+		{
+			"id":"52823ceaf869d39e",
+			"type":"text",
+			"text":"Objective :\nReturn to HQ",
+			"styleAttributes":{"textAlign":"center"},
+			"x":10520,
+			"y":0,
+			"width":360,
+			"height":80,
+			"color":"6"
+		},
+		{
+			"id":"f489206f31a7776c",
+			"type":"text",
+			"text":"Enemies Encountered\n\n1. ",
+			"styleAttributes":{},
+			"x":10520,
+			"y":100,
+			"width":260,
+			"height":300,
+			"color":"6"
 		},
 		{
 			"id":"221d4f009dbbe1f8",
@@ -342,6 +375,39 @@
 			"width":260,
 			"height":300,
 			"color":"1"
+		},
+		{
+			"id":"72dc4068baeb4552",
+			"type":"text",
+			"text":"Key LDI's\n\n1.  ",
+			"styleAttributes":{},
+			"x":10800,
+			"y":100,
+			"width":260,
+			"height":300,
+			"color":"6"
+		},
+		{
+			"id":"2671d5d6303b20ad",
+			"type":"text",
+			"text":"Notes : \n\n1.  ",
+			"styleAttributes":{},
+			"x":11080,
+			"y":-540,
+			"width":340,
+			"height":520,
+			"color":"6"
+		},
+		{
+			"id":"9a779ae1d73ef71a",
+			"type":"text",
+			"text":"Overview :\n\n1. Narrative : HQ contacted MC to go back ",
+			"styleAttributes":{},
+			"x":11080,
+			"y":0,
+			"width":340,
+			"height":400,
+			"color":"6"
 		},
 		{
 			"id":"c80bd8a03b30901c",
@@ -583,72 +649,6 @@
 			"y":0,
 			"width":340,
 			"height":400,
-			"color":"1"
-		},
-		{
-			"id":"70ae8c120118a005",
-			"type":"text",
-			"text":"Key LDI's\n\n1.  None\n",
-			"styleAttributes":{},
-			"x":520,
-			"y":100,
-			"width":260,
-			"height":300,
-			"color":"1"
-		},
-		{
-			"id":"e78774bb88ce4505",
-			"type":"text",
-			"text":"Objective :\nLook for the red site core ",
-			"styleAttributes":{"textAlign":"center"},
-			"x":240,
-			"y":0,
-			"width":360,
-			"height":80,
-			"color":"1"
-		},
-		{
-			"id":"a7e8e446c16cb125",
-			"type":"text",
-			"text":"Enemies Encountered\n\n1.  None\n",
-			"styleAttributes":{},
-			"x":240,
-			"y":100,
-			"width":260,
-			"height":300,
-			"color":"1"
-		},
-		{
-			"id":"aaf68b1f141f8aee",
-			"type":"text",
-			"text":"## Puzzle\n\n1. None",
-			"styleAttributes":{},
-			"x":-240,
-			"y":-520,
-			"width":340,
-			"height":340,
-			"color":"1"
-		},
-		{
-			"id":"2a833058868d0c8d",
-			"type":"text",
-			"text":"## Hostiles\n\n1. Grounded Standard Melee\n2. Aerial Standard Ranged",
-			"styleAttributes":{},
-			"x":-240,
-			"y":-140,
-			"width":340,
-			"height":340,
-			"color":"1"
-		},
-		{
-			"id":"bb111e0ea579003d",
-			"type":"text",
-			"text":"## Navigation\n\n1. [[Spike]]\n2. [[Falling Rock]]\n3. [[Destroyable Roadblock]]\n4. [[One-way Platform]]",
-			"styleAttributes":{},
-			"x":-620,
-			"y":-520,
-			"width":340,
-			"height":720,
 			"color":"1"
 		}
 	],

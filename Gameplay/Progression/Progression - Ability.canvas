@@ -87,17 +87,6 @@
 			"color":"3"
 		},
 		{
-			"id":"75e2e4b2bebacd0a",
-			"type":"text",
-			"text":"# Passage\n> Won't be accessible without clearance from the superior / Styx",
-			"styleAttributes":{},
-			"x":2920,
-			"y":420,
-			"width":440,
-			"height":180,
-			"color":"2"
-		},
-		{
 			"id":"c94125510d18e250",
 			"type":"text",
 			"text":"# Passage\n> will be locked behind something that need skill from [[Koyuki Rin ( 小雪 凛 )]]",
@@ -130,6 +119,27 @@
 			"color":"3"
 		},
 		{
+			"id":"b13b7878d49a314b",
+			"type":"text",
+			"text":"[[Naita Putri|Iron Skin]]",
+			"styleAttributes":{"textAlign":"center"},
+			"x":540,
+			"y":540,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"75e2e4b2bebacd0a",
+			"type":"text",
+			"text":"# Passage\n> Won't be accessible without clearance from the superior / Styx",
+			"styleAttributes":{},
+			"x":2920,
+			"y":420,
+			"width":440,
+			"height":180,
+			"color":"2"
+		},
+		{
 			"id":"e86499aa8822b027",
 			"type":"text",
 			"text":"# Memento\n> will be scattered around the world? and every place is locked behind an ***ability-gate paths***",
@@ -147,16 +157,6 @@
 			"styleAttributes":{"textAlign":"center"},
 			"x":3520,
 			"y":480,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"b13b7878d49a314b",
-			"type":"text",
-			"text":"[[Naita Putri|Iron Skin]]",
-			"styleAttributes":{"textAlign":"center"},
-			"x":540,
-			"y":540,
 			"width":260,
 			"height":60
 		},

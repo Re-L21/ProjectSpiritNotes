@@ -4,7 +4,7 @@
 	- [ ] List
 	- [ ] Location
 - [ ] Rework progression 🔺 
-	- [ ] Exploration rewards🔺  
+	- [x] Exploration rewards 🔺 ✅ 2025-12-07
 	- [ ] Quest Design Document 🔺
 		- [x] Prologue ✅ 2025-12-07
 		- [ ] [[Naita Putri]]
