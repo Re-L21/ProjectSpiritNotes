@@ -5,9 +5,10 @@
 
 ---
 # Ability required for locked places
-- ### Deflect
-- ### Generate Armor
-- ### TBA
+## Kampung Cempaka
+## Kota Tua
+## Ancol
+## Monas
 
 ---
 # Rewards

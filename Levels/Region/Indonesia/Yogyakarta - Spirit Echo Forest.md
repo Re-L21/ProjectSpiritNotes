@@ -5,7 +5,7 @@
 
 ---
 # Ability required for locked places
-- ### TBA
+
 
 ---
 # Rewards
