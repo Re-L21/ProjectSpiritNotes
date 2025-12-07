@@ -1,9 +1,16 @@
 ## Game Design
 
-- [ ] Elite mobs location list
+- [ ] Elite mobs
+	- [ ] List
+	- [ ] Location
 - [ ] Rework progression 🔺 
 	- [ ] Exploration rewards🔺  
 	- [ ] Quest Design Document 🔺
+		- [x] Prologue ✅ 2025-12-07
+		- [ ] [[Naita Putri]]
+		- [ ] [[Koyuki Rin ( 小雪 凛 )]]
+		- [ ] [[Mairi Chattan]]
+		- [ ] [[Mary Alderton]]
 - [ ] Rework & complete ability-based paths LDI 🔺 
 	- [x] [[Overgrown Blackthorn (Prunus Spinosa)]] ✅ 2025-11-26
 	- [x] [[Ghostly Interactable]] ✅ 2025-11-27
