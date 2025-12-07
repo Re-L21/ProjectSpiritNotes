@@ -6,7 +6,7 @@ tags:
 
 ---
 
-- # Boss
+- # Named Entity
 	Ruler of the area, defeating them will grants [[Abilities|Ability]] 
 	1. [[Claudia Chika]]
 	2. [[Koyuki Rin ( 小雪 凛 )]]
@@ -17,8 +17,13 @@ tags:
 	7. [[Mairi Chattan]]
 	8. [[Chi-Tana Bibi]]
 
+- # Boss
+	
+
 - # Elite
 	A specialize enemy, defeating them will grant rewards such as [[Aether]], or [[Skins|Cosmetics]].
+	- [[Piercer]]
+	- 
 
 - # Mobs 
 	A standard type of enemies ==that can take up to `x` hits (at least the mob can tank full basic combo from player. not including the tank/ heavy)== ^098e22
@@ -29,8 +34,9 @@ tags:
 			1. close range attack
 			2. leap attack
 		4. aggressive (melee)
-		5. heavy (melee)
-		6. ambusher / lurker (melee / ranged)
+		5. agile (melee)
+		6. heavy (melee)
+		7. ambusher / lurker (melee / ranged)
 			1. melee will attack player when in range (hidden when out of range)
 			2. ranged can snipe player across the room
 	
