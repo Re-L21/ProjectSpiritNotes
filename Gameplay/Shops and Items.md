@@ -8,12 +8,15 @@ tags:
 ---
 
 ## Shops
-	Most likely to be deleted. lack of content or reason for shop to exist
 
 Item listed in the shops are :
-- Map of the area (paper)
+- Map of the area (paper) ??
 - [[Skins|Weapon & Outfit cosmetic]] ? 
+- Upgrades
+	1. Health Boost
+	2. Energy Boost
 - Consumables
+	1. Energy Drink? (replenish energy)
 - Weapons
 
 ## Currencies
@@ -22,7 +25,7 @@ Item listed in the shops are :
 ## Materials
 > Used for upgrading weapons and spells, scattered throughout the map. materials can also be obtained through reward from ==side quest== or ==boss reward==
 
-## Upgrades
+# Upgrades
 	Most likely to be scrapped, do we need to upgrade our weapon? or maybe upgrade ability?
 
 ### Weapons
@@ -39,18 +42,18 @@ Item listed in the shops are :
 	- More combo ?
 	- Damage +++ ? 
 
-### Special Actions / Spells
-> Upgrading spells will require specific item that can be found throughout the map, depending on which is found first, the upgrades ==can't== be override
+### ~~Special Actions / Spells~~
+> ~~Upgrading spells will require specific item that can be found throughout the map, depending on which is found first, the upgrades ==can't== be override~~
 
-- [[Mary Alderton|Imouto]]
-	- Increase rapid punch  duration
-	- Damage increase ?
-- [[Naita Putri]]
-	- Increase armor gain
-	- change property ?
-- [[Koyuki Rin ( 小雪 凛 )|rin]]
-	- Increase slow area of effect
-	- Freeze enemy ? (hinder movement or completely froze them)
-- [[Saigyouji Yuyuko ( 西行寺 幽々子 )|Yuyuko]]
-	- Increase butterfly count
-	- Shoots butterfly instead of orbiting the player
+- ~~[[Mary Alderton|Imouto]]~~
+	- ~~Increase rapid punch  duration~~
+	- ~~Damage increase ?~~
+- ~~[[Naita Putri]]~~
+	- ~~Increase armor gain~~
+	- ~~change property ?~~
+- ~~[[Koyuki Rin ( 小雪 凛 )|rin]]~~
+	- ~~Increase slow area of effect~~
+	- ~~Freeze enemy ? (hinder movement or completely froze them)~~
+- ~~[[Saigyouji Yuyuko ( 西行寺 幽々子 )|Yuyuko]]~~
+	- ~~Increase butterfly count~~
+	- ~~Shoots butterfly instead of orbiting the player~~

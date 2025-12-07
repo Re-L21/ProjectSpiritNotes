@@ -8,12 +8,15 @@ tags:
 
 ## Character Stats
 
-- Health
+- Max Health
 	- Duh
-	- Can be upgraded
-- Energy
+	- Can be upgraded (collect the upgrade fragment. Can be found by exploring)
+- Max Energy
 	- A spiritual energy
-	- Can be upgraded
+	- Can be upgraded (collect the upgrade fragment. Can be found by exploring)
+- Energy Regen
+	- Passively generate energy, default is 0
+	- Can only be utilize from upgrade (collect the upgrade fragment. Can be found by exploring)
 
 ## Combat
 
@@ -30,21 +33,15 @@ tags:
 		- Can ==affect both== projectiles and bladed attacks
 			- Refill energy
 			- Will return enemy projectile
+		- No cooldowns
 
 - Spirit Mechanics : 
 	- In combat : 
-	    - Player will have spirit slot, can equip 3 or 4 spirits at one time, 
+	    - Player will have spirit slot, can equip ==3 or 4== spirits at one time, 
 	    - Player will need to select the spirit to perform special action (spirit attack) ==need to specify on how the player will “switch” the selected spirit==
 	- Exploration : 
 	    - Locked place / some roadblock can be dealt with either solving a puzzle, smash your way through it, or a specific ability
 	- Ultimate mechanics : 
-	    - Is a hidden ability that every spirit has ( ==after unlocking it, some bosses will re appear with its hidden ability unlocked== )
-	    - Unlocked after :  
-		    - [ ] Defeating the first 4 bosses
-			- [ ] Obtain all memento (for each spirit)
-			    - [ ] ( Skip-able )talk to the correspond spirit in the base
-		    - [ ] First boss fight
-		    - [ ] Obtained the spirit
 		- Ultimate require energy
 		    - Every spirit has different ultimate, will always use the current spirit
 
@@ -57,10 +54,13 @@ tags:
 - [[Shops and Items|Shops]]
 - Can be accessed from safe zone ? or located in the first place visited after ==prologue==
 
-## Collectibles
+## Exploration Rewards
 
-- Spirits ( Abilities / Skills )
+- ### Nyxa ( Abilities / Skills )
 	- [[Abilities|Ability list]]
-
-- Skins ( from challenge. TBA )
+- ### Skins ( from challenge. TBA )
 	- [[Skins|Skin list]]
+- ### Upgrades
+	- [[Upgrade List]]
+- ### Consumables
+	- 
