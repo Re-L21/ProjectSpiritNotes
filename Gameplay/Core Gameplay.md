@@ -35,7 +35,7 @@ tags:
 			- Will return enemy projectile
 		- No cooldowns
 
-- Spirit Mechanics : 
+- Nyxa Mechanics : 
 	- In combat : 
 	    - Player will have spirit slot, can equip ==3 or 4== spirits at one time, 
 	    - Player will need to select the spirit to perform special action (spirit attack) ==need to specify on how the player will “switch” the selected spirit==
