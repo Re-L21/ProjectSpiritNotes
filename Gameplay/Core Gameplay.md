@@ -6,8 +6,7 @@ tags:
 
 ---
 
-## Character Stats
-
+# Character Stats
 - Max Health
 	- Duh
 	- Can be upgraded (collect the upgrade fragment. Can be found by exploring)
@@ -18,8 +17,7 @@ tags:
 	- Passively generate energy, default is 0
 	- Can only be utilize from upgrade (collect the upgrade fragment. Can be found by exploring)
 
-## Combat
-
+# Combat
 - Basic combat : 
 	- Player can choose between these weapon type to equip on the character menu ==outside== combat: 
 		- Light Weapon : n basic attack combo
@@ -46,16 +44,14 @@ tags:
 		    - Every spirit has different ultimate, will always use the current spirit
 
 - Death mechanics
-	-
+	- Simply teleport the player
 
-## Base Camp
-
+# Base Camp
 - Report completion of side quest ( ==can be accepted by talking to the NPC throughout the map== )
 - [[Shops and Items|Shops]]
 - Can be accessed from safe zone ? or located in the first place visited after ==prologue==
 
-## Exploration Rewards
-
+# Exploration Rewards
 - ### Nyxa ( Abilities / Skills )
 	- [[Abilities|Ability list]]
 - ### Skins ( from challenge. TBA )

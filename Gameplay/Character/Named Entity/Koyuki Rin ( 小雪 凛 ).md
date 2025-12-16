@@ -15,7 +15,7 @@ Ability: Remote
 
 # Combat Ability
 - #### Freezing Field
-	Rin makes the field freezing cold making the enemy sluggish (slow)
+	Rin makes the field freezing cold making the enemy sluggish (slow) 
 
 # Ultimate Ability
 - #### Ice Captive 

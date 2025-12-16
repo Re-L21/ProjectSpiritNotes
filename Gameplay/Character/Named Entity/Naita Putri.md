@@ -13,8 +13,17 @@ Ability: Generate Armor
 - #### None
 
 # Combat Ability
+## Base Ability
 - #### Iron Skin
 	She help reducing damage taken by [[Main Character|mc]]
+
+## Upgrade Paths
+ > Choose one upgrade (can switch between them)
+
+- #### Hold the line
+	Use shield to push back enemy from the [[Main Character|mc]] for `x` duration / times 
+- #### Taunt
+	She "extract" herself and become a decoy for enemy attack
 
 # Ultimate Ability
 - #### Heavy Armor Mode

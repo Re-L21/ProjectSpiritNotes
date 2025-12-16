@@ -14,8 +14,14 @@ Ability: Glide
 	Yuyuko grabs mc and open her umbrella while falling, making the fall slower
 
 # Combat Ability
+## Base Ability
 - #### Butterfly Orbit
 	She summon `x` amount of butterfly to orbit around [[Main Character|mc]], damaging everything that overlap with it
+
+## Upgrade Paths
+ > Choose one upgrade (can switch between them)
+ 
+ - #### 
 
 # Ultimate Ability
 - #### Butterfly Swarm

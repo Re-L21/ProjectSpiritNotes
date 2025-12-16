@@ -13,6 +13,8 @@ Ability: Sprint
 # Traversal Ability 
 - #### Sprint
 	Mairi helps increasing [[Main Character|mc]] movement speed
+- #### Sprint ++ 
+	Can run phasing through enemy
 
 # Combat Ability
 - #### Speed Buff

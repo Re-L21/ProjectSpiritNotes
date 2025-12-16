@@ -17,8 +17,17 @@ Ability: Slide & Crouch,  Mobility Support
 	With her help, MC can traverse through small gap that its usually hard for him to pass through
 
 # Combat Ability
+## Base Ability
 - #### Heal 
 	She uses energy to heal MC
+
+## Upgrade Paths
+ > Choose one upgrade (can switch between them)
+ 
+ - #### Heal+
+	 Uses more energy to heal more
+ - #### Energy Heal
+	 Uses health to heal energy
 
 # Ultimate Ability
 - #### Regeneration
