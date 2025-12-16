@@ -18,10 +18,11 @@ Ability: Glide
 - #### Butterfly Orbit
 	She summon `x` amount of butterfly to orbit around [[Main Character|mc]], damaging everything that overlap with it
 
-## Upgrade Paths
+## Variants
  > Choose one upgrade (can switch between them)
  
- - #### 
+ - #### Piercing Butterfly
+ - #### Exploding Butterfly
 
 # Ultimate Ability
 - #### Butterfly Swarm

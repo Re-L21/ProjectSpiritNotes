@@ -17,7 +17,7 @@ Ability: Generate Armor
 - #### Iron Skin
 	She help reducing damage taken by [[Main Character|mc]]
 
-## Upgrade Paths
+## Variants
  > Choose one upgrade (can switch between them)
 
 - #### Hold the line

@@ -18,7 +18,7 @@ Ability: Deflect
 ## Base Ability
 - #### Deflect
 	She deflects enemy attack 
-## Upgrade Paths
+## Variants
  > Choose one upgrade (can switch between them)
  
  - #### Return Projectile

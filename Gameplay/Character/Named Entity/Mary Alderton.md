@@ -22,11 +22,11 @@ Ability: Dash & Dart
 - #### Rift Step
 	She dashes to enemy, deal damage, and marking them
 
-## Upgrade Paths
+## Variants
  > Choose one upgrade (can switch between them)
  
- - #### Rift Dash
-	 She dash to the furthest visible enemy and damage every enemy on the path to the furthest enemy
+ - #### Mass Voodoo Doll
+	 Mark every single enemy visible, and cant dart anymore
 
 # Ultimate Ability
 - ### Mirror Execution

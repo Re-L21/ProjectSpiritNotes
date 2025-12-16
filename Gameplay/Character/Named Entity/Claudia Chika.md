@@ -21,11 +21,9 @@ Ability: Slide & Crouch,  Mobility Support
 - #### Heal 
 	She uses energy to heal MC
 
-## Upgrade Paths
+## Variants
  > Choose one upgrade (can switch between them)
  
- - #### Heal+
-	 Uses more energy to heal more
  - #### Energy Heal
 	 Uses health to heal energy
 
