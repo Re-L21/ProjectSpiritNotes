@@ -6,7 +6,7 @@ Character State
 	- Jump (jump input pressed)
 	- Dash (dash input pressed and can dash)
 	- Fall (not grounded (ground gone) )
-	- Crouch ( crouch input held )  
+	- Crouch (crouch input held)
 - Walk : grounded, locomotion
 	- Idle (movement input <= 0 )
 	- Run ( movement input > .5)
@@ -62,7 +62,7 @@ Character State
 	- Fall (not grounded)  
 
 - Dart : in-air, locomotion
-	- Fall (dart ended)  
+	- Fall (dart ended)  0
 
 - Glide : in-air, locomotion
 	- Idle ( ground detected )

@@ -32,3 +32,8 @@
 - [ ] Combat
 	- [x] Base combo ✅ 2025-11-26
 	- [ ] Melee Trace
+- [ ] Gym
+	- [ ] Basic locomotion
+	- [ ] platforming
+	- [ ] LDI testing
+	- [ ] Combat arena

@@ -11,3 +11,6 @@
 
 ## Energy Regen
 > Collecting health boost fragment will increase the max level based on the level (the max level is energy regen II)
+
+## Ability Variants
+> Another version of the ability

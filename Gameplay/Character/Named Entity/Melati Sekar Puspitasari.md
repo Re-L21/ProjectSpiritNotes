@@ -25,6 +25,7 @@ Ability: Deflect
 	 Return Any projectile Once
  - #### Defensive State
 	 Keep deflecting enemy attack while regenerating energy at faster rate
+
 # Ultimate Ability
 - ### Projectile Protection
 	Protecting MC from all projectile attack for `x` amount of total deflected attacks

@@ -9,7 +9,7 @@ tags:
 	🟫   : Basic attack
 	🔺   : Special Action
 	🔴   : Dash / slide
-	❎   : Jump / double jump / Hold to glide
+	❎   : Jump / double jump / Hold to glide / Interact
 	Dpad : Change spirits 
 	R1   : Deflect
 	R2   : Sprint / wall run
